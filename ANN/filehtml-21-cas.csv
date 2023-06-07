@@ -1,0 +1,31 @@
+entity_group,score,word,start,end
+Lab_value,0.9856069,32,14,16
+Sign_symptom,0.97455347,antecedents de polytoxicomanie,32,62
+Medication,0.6742619,cocaine,64,71
+Diagnostic_procedure,0.60936743,amp,82,85
+Medication,0.5710372,##amine,88,93
+Medication,0.5458496,cannabis,98,106
+Diagnostic_procedure,0.6609083,##hyl,115,118
+Sign_symptom,0.99734145,hallucinations,235,249
+Lab_value,0.71823376,84 bp,390,395
+Lab_value,0.73718005,/ 91 mmhg,430,438
+Diagnostic_procedure,0.9973379,ec,444,446
+Lab_value,0.96871644,normal,452,458
+Detailed_description,0.5232718,dehor,517,522
+Diagnostic_procedure,0.9821564,cpk,589,592
+Lab_value,0.996601,53,595,597
+Diagnostic_procedure,0.37822512,##zo,693,695
+Lab_value,0.9548555,40,717,719
+Coreference,0.7078702,admission,757,766
+Dosage,0.8676319,250 mg,813,819
+Coreference,0.529076,des,823,826
+Coreference,0.5296874,##ox,826,828
+Diagnostic_procedure,0.49658373,##yp,828,830
+Coreference,0.76530194,se,949,951
+Coreference,0.40095508,##pha,1056,1059
+Sign_symptom,0.98651046,hall,1084,1088
+Diagnostic_procedure,0.8968519,edtak2,1192,1198
+Coreference,0.6151623,admission,1211,1220
+Diagnostic_procedure,0.73240995,clhpuv - bd,1374,1383
+Diagnostic_procedure,0.99660933,cpg,1424,1427
+Diagnostic_procedure,0.8874618,sm,1428,1430

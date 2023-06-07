@@ -1,0 +1,44 @@
+entity_group,score,word,start,end
+Lab_value,0.92024636,32,28,30
+Dosage,0.7896464,an,31,33
+Diagnostic_procedure,0.9460358,pe,36,38
+Dosage,0.44886312,##sant,38,42
+Dosage,0.8710746,68 kg,43,48
+Detailed_description,0.6090276,as,145,147
+Sign_symptom,0.66891056,hematopo,209,217
+Coreference,0.42238984,##ie,217,219
+Sign_symptom,0.99989223,fatigue,290,297
+Sign_symptom,0.48181593,ec,303,305
+Diagnostic_procedure,0.8919904,##atolog,330,336
+Detailed_description,0.50502753,##mission complete,421,437
+Coreference,0.35195243,induction,474,483
+Detailed_description,0.7734205,##at,500,502
+Detailed_description,0.70783573,cycles,505,511
+Diagnostic_procedure,0.6155934,chimiotherapie,515,529
+Diagnostic_procedure,0.4833806,type,533,537
+Detailed_description,0.58864665,hyper,538,543
+Coreference,0.7676151,##c,543,544
+Detailed_description,0.6541749,##vad,544,547
+Diagnostic_procedure,0.84160393,cy,549,551
+Medication,0.6040915,##hosphamide,555,565
+Diagnostic_procedure,0.9797506,cytogen,640,647
+Coreference,0.6882543,mm,751,753
+Coreference,0.6725505,##l,753,754
+Disease_disorder,0.75550514,leukemia,770,778
+Sign_symptom,0.38497096,##ules,855,859
+Sign_symptom,0.83455455,hematopoie,860,870
+Coreference,0.4526736,patient,949,956
+Diagnostic_procedure,0.49999285,condition,1022,1031
+Medication,0.9047052,cyclophosphamide,1069,1085
+Coreference,0.9261739,admission,1138,1147
+Diagnostic_procedure,0.8087836,analyses,1183,1191
+Diagnostic_procedure,0.52275914,##ctions renales,1224,1238
+Lab_value,0.8703083,62,1253,1255
+Diagnostic_procedure,0.99387217,hepati,1265,1271
+Diagnostic_procedure,0.97682136,##bine,1283,1287
+Lab_value,0.988318,5,1297,1298
+Diagnostic_procedure,0.97701913,alanine aminotransferase,1307,1331
+Lab_value,0.78738683,5,1334,1335
+Diagnostic_procedure,0.9967895,as,1341,1343
+Diagnostic_procedure,0.97018313,aminotra,1351,1359
+Diagnostic_procedure,0.97742814,plaque,1456,1462

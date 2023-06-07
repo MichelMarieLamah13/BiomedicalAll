@@ -1,0 +1,51 @@
+entity_group,score,word,start,end
+Dosage,0.8850384,20 an,40,45
+Dosage,0.526766,pe,48,50
+Dosage,0.98124295,68 kg,55,60
+Dosage,0.7626243,doses,181,186
+Medication,0.999861,lo,190,192
+Medication,0.996234,##raz,192,195
+Medication,0.9186453,##epam,195,199
+Dosage,0.9992626,1 mg,202,206
+Coreference,0.49396607,ce,289,291
+Coreference,0.3012931,en,318,320
+Coreference,0.3987987,##phalite,322,329
+Sign_symptom,0.61882615,affect,338,344
+Detailed_description,0.67694277,an,351,353
+Coreference,0.48665103,au,355,357
+Coreference,0.3514966,##paravant,357,365
+Sign_symptom,0.52522373,atrophie,385,393
+Sign_symptom,0.900078,dysphagie,409,418
+Sign_symptom,0.85335666,##ps,432,434
+Coreference,0.73055416,status,692,698
+Dosage,0.99143875,175 mg,761,767
+Diagnostic_procedure,0.34433657,phen,771,775
+Medication,0.28744122,##yt,775,777
+Dosage,0.9991847,1500 mg,827,834
+Medication,0.78084224,levetiracetam,838,851
+Administration,0.46426797,deux,853,857
+Administration,0.72868407,du,873,875
+Medication,0.828603,clobazam,876,884
+Administration,0.5845174,dose,885,889
+Dosage,0.9982379,30 mg,892,897
+Dosage,0.8112798,matin,901,906
+Dosage,0.89852285,40 mg au coucher,912,928
+Dosage,0.99509734,50 mg,932,937
+Dosage,0.5580574,deux,952,956
+Coreference,0.45935985,es,1024,1026
+Coreference,0.869144,##ome,1026,1029
+Coreference,0.49982268,##pr,1029,1031
+Medication,0.94267803,##ole,1033,1036
+Dosage,0.99777585,40 mg,1039,1044
+Dosage,0.8654906,400 unites de vitamine d,1046,1070
+Dosage,0.99863696,250 mg,1074,1080
+Dosage,0.8753233,calcium,1084,1091
+Detailed_description,0.47830036,’,1144,1145
+Sign_symptom,0.6691518,##vuls,1166,1170
+Detailed_description,0.45954353,##inution,1190,1197
+Detailed_description,0.42447868,dose,1214,1218
+Coreference,0.27092558,ph,1222,1224
+Sign_symptom,0.4334982,##en,1224,1226
+Coreference,0.46719852,##ytoine,1226,1232
+Dosage,0.84155804,300 mg,1236,1242
+Dosage,0.5668268,175,1245,1248
