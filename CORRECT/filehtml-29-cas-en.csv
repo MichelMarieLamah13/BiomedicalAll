@@ -1,69 +1,69 @@
-entity_group,score,word,start,end
-Age,0.99001753,14 - year - old,80,91
-Diagnostic_procedure,0.69564676,weighing,97,105
-Weight,0.1702368,64,106,108
-Dosage,0.6346001,kg,109,111
-Area,0.25112063,1,126,127
-Dosage,0.19459489,.,127,128
-Weight,0.17662188,72 meters,128,137
-Disease_disorder,0.9114169,osteosarcoma,222,234
-Biological_structure,0.5018303,distal,242,248
-Biological_structure,0.99966764,right femur,249,260
-Biological_structure,0.68528247,pulmonary,266,275
-Sign_symptom,0.648873,meta,276,280
-Therapeutic_procedure,0.93298095,children oncology,311,328
-Diagnostic_procedure,0.6651365,map,381,384
-Medication,0.9920197,cycles,385,391
-Duration,0.86901236,ten weeks,406,415
-Medication,0.99987066,do,417,419
-Medication,0.99787354,##x,419,420
-Medication,0.8805413,##orubicin,420,428
-Dosage,0.9944935,37. 5 mg / m2 /,429,440
-Medication,0.98152566,cisplatin,465,474
-Dosage,0.9271618,60 mg / m2 /,488,497
-Medication,0.99895763,methotrexate,540,552
-Dosage,0.9756518,12 g /,566,571
-Medication,0.99880606,mapie,616,621
-Medication,0.99987674,do,623,625
-Medication,0.9990946,##x,625,626
-Medication,0.97813714,##orubicin,626,634
-Dosage,0.98194313,37. 5 mg / m2 /,648,659
-Medication,0.9934123,cisplatin,684,693
-Dosage,0.93932116,60 mg / m2,707,715
-Medication,0.9969059,methotrexate,752,764
-Dosage,0.95875835,12 g / m2,778,785
-Dosage,0.5312018,35,818,820
-Dosage,0.63530207,"39,",822,825
-Medication,0.9964601,ifosfamide,830,840
-Dosage,0.95693207,2. 8 g / m2 / dose,854,867
-Medication,0.9952677,etoposide,888,897
-Dosage,0.99489105,100 mg / m2,911,920
-Medication,0.9998925,do,967,969
-Medication,0.9107269,##xorubicin,969,978
-Dosage,0.97894764,37. 5 mg / m2 / dose,992,1007
-Duration,0.9881358,two,1012,1015
-Medication,0.99861073,ifosfamide,1041,1051
-Dosage,0.9966283,3 g / m2,1065,1071
-Disease_disorder,0.99395734,contact dermatitis,1261,1279
-Biological_structure,0.973478,left,1287,1291
-Therapeutic_procedure,0.9328414,intra,1345,1350
-Therapeutic_procedure,0.9266743,##ous line,1353,1361
-Sign_symptom,0.9998586,rash,1376,1380
-Therapeutic_procedure,0.6323564,central,1408,1415
-Medication,0.9742007,methotrexa,1483,1493
-Clinical_event,0.9926972,seen,1523,1527
-Medication,0.9980883,ny,1556,1558
-Medication,0.97095513,##statin,1558,1564
-Sign_symptom,0.99808973,rash,1630,1634
-Medication,0.99770325,ny,1653,1655
-Medication,0.9653242,##statin,1655,1661
-Dosage,0.8150027,0,1686,1687
-Dosage,0.923853,05,1688,1690
-Medication,0.99976474,beta,1692,1696
-Medication,0.9333473,##methasone,1696,1705
-Medication,0.99160653,##ropionate,1709,1718
-Dosage,0.9225653,twice a day,1744,1755
-Disease_disorder,0.985572,der,1774,1777
-Disease_disorder,0.4636781,##itis,1780,1784
-Dosage,0.9521663,high,1839,1843
-Medication,0.99829733,methotrexate,1849,1861
+entity_group,score,word,start,end,correct_label
+Age,0.99001753,14 - year - old,80,91,Age
+Diagnostic_procedure,0.69564676,weighing,97,105,Diagnostic_procedure
+Weight,0.1702368,64,106,108,Weight
+Dosage,0.6346001,kg,109,111,Lab_value
+Area,0.25112063,1,126,127,Height
+Dosage,0.19459489,.,127,128,Height
+Weight,0.17662188,72 meters,128,137,Height
+Disease_disorder,0.9114169,osteosarcoma,222,234,Disease_disorder
+Biological_structure,0.5018303,distal,242,248,Biological_structure
+Biological_structure,0.99966764,right femur,249,260,Biological_structure
+Biological_structure,0.68528247,pulmonary,266,275,Biological_structure
+Sign_symptom,0.648873,meta,276,280,Sign_symptom
+Therapeutic_procedure,0.93298095,children oncology,311,328,Therapeutic_procedure
+Diagnostic_procedure,0.6651365,map,381,384,Diagnostic_procedure
+Medication,0.9920197,cycles,385,391,Diagnostic_procedure
+Duration,0.86901236,ten weeks,406,415,Duration
+Medication,0.99987066,do,417,419,medication
+Medication,0.99787354,##x,419,420,medication
+Medication,0.8805413,##orubicin,420,428,medication
+Dosage,0.9944935,37. 5 mg / m2 /,429,440,Dosage
+Medication,0.98152566,cisplatin,465,474,medication
+Dosage,0.9271618,60 mg / m2 /,488,497,Dosage
+Medication,0.99895763,methotrexate,540,552,medication
+Dosage,0.9756518,12 g /,566,571,Dosage
+Medication,0.99880606,mapie,616,621,medication
+Medication,0.99987674,do,623,625,medication
+Medication,0.9990946,##x,625,626,medication
+Medication,0.97813714,##orubicin,626,634,medication
+Dosage,0.98194313,37. 5 mg / m2 /,648,659,Dosage
+Medication,0.9934123,cisplatin,684,693,medication
+Dosage,0.93932116,60 mg / m2,707,715,Dosage
+Medication,0.9969059,methotrexate,752,764,medication
+Dosage,0.95875835,12 g / m2,778,785,Dosage
+Dosage,0.5312018,35,818,820,Date
+Dosage,0.63530207,39,822,825,Date
+Medication,0.9964601,ifosfamide,830,840,medication
+Dosage,0.95693207,2. 8 g / m2 / dose,854,867,Dosage
+Medication,0.9952677,etoposide,888,897,medication
+Dosage,0.99489105,100 mg / m2,911,920,Dosage
+Medication,0.9998925,do,967,969,medication
+Medication,0.9107269,##xorubicin,969,978,medication
+Dosage,0.97894764,37. 5 mg / m2 / dose,992,1007,Dosage
+Duration,0.9881358,two,1012,1015,Duration
+Medication,0.99861073,ifosfamide,1041,1051,medication
+Dosage,0.9966283,3 g / m2,1065,1071,Dosage
+Disease_disorder,0.99395734,contact dermatitis,1261,1279,Sign_symptom
+Biological_structure,0.973478,left,1287,1291,Biological_structure
+Therapeutic_procedure,0.9328414,intra,1345,1350,Therapeutic_procedure
+Therapeutic_procedure,0.9266743,##ous line,1353,1361,Therapeutic_procedure
+Sign_symptom,0.9998586,rash,1376,1380,Sign_symptom
+Therapeutic_procedure,0.6323564,central,1408,1415,Therapeutic_procedure
+Medication,0.9742007,methotrexa,1483,1493,medication
+Clinical_event,0.9926972,seen,1523,1527,Clinical_event
+Medication,0.9980883,ny,1556,1558,medication
+Medication,0.97095513,##statin,1558,1564,medication
+Sign_symptom,0.99808973,rash,1630,1634,Sign_symptom
+Medication,0.99770325,ny,1653,1655,medication
+Medication,0.9653242,##statin,1655,1661,medication
+Dosage,0.8150027,0,1686,1687,Dosage
+Dosage,0.923853,5,1688,1690,Dosage
+Medication,0.99976474,beta,1692,1696,medication
+Medication,0.9333473,##methasone,1696,1705,medication
+Medication,0.99160653,##ropionate,1709,1718,medication
+Dosage,0.9225653,twice a day,1744,1755,Frequency
+Disease_disorder,0.985572,der,1774,1777,Disease_disorder
+Disease_disorder,0.4636781,##itis,1780,1784,Disease_disorder
+Dosage,0.9521663,high,1839,1843,Dosage
+Medication,0.99829733,methotrexate,1849,1861,medication

@@ -30,6 +30,7 @@ class Test:
         true_labels, predicted_labels = [], []
         for i, filename in enumerate(files):
             df = pd.read_csv(f"CORRECT/{filename}")
+            df.dropna(inplace=True)
             true_labels.extend(df['correct_label'].values)
             predicted_labels.extend(df['entity_group'].values)
         precision = precision_score(true_labels, predicted_labels, average='micro', zero_division=0)

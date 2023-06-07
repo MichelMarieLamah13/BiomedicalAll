@@ -1,65 +1,65 @@
-entity_group,score,word,start,end
-Age,0.9895245,32 - year - old,10,21
-Personal_background,0.9985636,ghanaian,22,30
-Sex,0.99877113,woman,31,36
-Duration,0.5718768,weeks,47,52
-Sign_symptom,0.9999461,vomiting,89,97
-Duration,0.8044759,three days,164,174
-Subject,0.8108733,child,254,259
-Disease_disorder,0.7464029,hyper,530,535
-Disease_disorder,0.6613353,##darum,547,552
-Disease_disorder,0.7782257,h,554,555
-Clinical_event,0.60208154,hospitalized,612,624
-Administration,0.96202093,intra,638,643
-Medication,0.9999101,met,665,668
-Medication,0.8763884,##oclopramide,668,679
-Medication,0.9997451,dip,684,687
-Medication,0.98040074,##hen,687,690
-Medication,0.59524125,##hy,690,692
-Administration,0.99884075,oral,713,717
-Medication,0.99985933,met,718,721
-Medication,0.9435364,##oclopramide,721,732
-Medication,0.967647,hydroxyzine,737,748
-Medication,0.9164439,metoclopramide,750,764
-Sign_symptom,0.82518613,extrapy,798,805
-Sign_symptom,0.87719965,##idal reaction,808,821
-Medication,0.99346787,hydroxyzine,866,877
-Medication,0.99156946,doxylamine,928,938
-Medication,0.9992335,p,943,944
-Medication,0.95121753,##yridoxine,944,953
-Date,0.8181167,weeks,1008,1013
-Sign_symptom,0.9999354,nausea,1073,1079
-Sign_symptom,0.999938,vomiting,1084,1092
-Administration,0.7842191,continuous,1113,1123
-Administration,0.99842286,intra,1124,1129
-Administration,0.3626163,##ven,1129,1132
-Administration,0.6457837,##ous infusion,1132,1144
-Dosage,0.9482577,0,1148,1149
-Dosage,0.7173203,9 %,1150,1152
-Medication,0.9944699,saline solution,1153,1168
-Dosage,0.7352254,5 %,1174,1176
-Medication,0.9172259,dextrose,1177,1185
-Clinical_event,0.9973469,discharged,1229,1239
-Medication,0.99984443,do,1264,1266
-Medication,0.88804317,##xylamine,1266,1274
-Medication,0.9983443,pyridoxine,1279,1289
-Date,0.55630356,one,1313,1316
-Duration,0.8209216,week,1317,1321
-Clinical_event,0.9997937,presented,1341,1350
-Nonbiological_location,0.98346555,emergency department,1358,1378
-Sign_symptom,0.9999285,vomiting,1435,1443
-Activity,0.9144215,eat and drink,1478,1491
-Disease_disorder,0.7401866,gastri,1554,1560
-Administration,0.99944156,oral,1589,1593
-Medication,0.9954303,ranitidine,1594,1604
-Dosage,0.9812966,150,1606,1609
-Medication,0.9513944,alginate acid,1630,1643
-Duration,0.9673738,14 weeks,1711,1719
-Detailed_description,0.95716375,up to five or six episodes,1746,1772
-Sign_symptom,0.9998876,vomiting,1776,1784
-Detailed_description,0.7812023,day,1789,1792
-Detailed_description,0.99472106,diffuse,1958,1965
-Biological_structure,0.9984409,abdominal,1966,1975
-Sign_symptom,0.9998797,pain,1976,1980
-Biological_structure,0.5220388,ep,1986,1988
-Sign_symptom,0.5353687,tenderness,1997,2007
+entity_group,score,word,start,end,correct_label
+Age,0.9895245,32 - year - old,10,21,Age
+Personal_background,0.9985636,ghanaian,22,30,Personnal_background
+Sex,0.99877113,woman,31,36,Sex
+Duration,0.5718768,weeks,47,52,Duration
+Sign_symptom,0.9999461,vomiting,89,97,Sign_symptom
+Duration,0.8044759,three days,164,174,Duration
+Subject,0.8108733,child,254,259,Subject
+Disease_disorder,0.7464029,hyper,530,535,Disease_disorder
+Disease_disorder,0.6613353,##darum,547,552,Disease_disorder
+Disease_disorder,0.7782257,h,554,555,Disease_disorder
+Clinical_event,0.60208154,hospitalized,612,624,Clinical_event
+Administration,0.96202093,intra,638,643,Administration
+Medication,0.9999101,met,665,668,Medication
+Medication,0.8763884,##oclopramide,668,679,Medication
+Medication,0.9997451,dip,684,687,Medication
+Medication,0.98040074,##hen,687,690,Medication
+Medication,0.59524125,##hy,690,692,Medication
+Administration,0.99884075,oral,713,717,Administration
+Medication,0.99985933,met,718,721,Medication
+Medication,0.9435364,##oclopramide,721,732,Medication
+Medication,0.967647,hydroxyzine,737,748,Medication
+Medication,0.9164439,metoclopramide,750,764,Medication
+Sign_symptom,0.82518613,extrapy,798,805,Sign_symptom
+Sign_symptom,0.87719965,##idal reaction,808,821,Sign_symptom
+Medication,0.99346787,hydroxyzine,866,877,Medication
+Medication,0.99156946,doxylamine,928,938,Medication
+Medication,0.9992335,p,943,944,Medication
+Medication,0.95121753,##yridoxine,944,953,Medication
+Date,0.8181167,weeks,1008,1013,Date
+Sign_symptom,0.9999354,nausea,1073,1079,Sign_symptom
+Sign_symptom,0.999938,vomiting,1084,1092,Sign_symptom
+Administration,0.7842191,continuous,1113,1123,Frequency
+Administration,0.99842286,intra,1124,1129,Administration
+Administration,0.3626163,##ven,1129,1132,Administration
+Administration,0.6457837,##ous infusion,1132,1144,Administration
+Dosage,0.9482577,0,1148,1149,Dosage
+Dosage,0.7173203,9 %,1150,1152,Dosage
+Medication,0.9944699,saline solution,1153,1168,Medication
+Dosage,0.7352254,5 %,1174,1176,Dosage
+Medication,0.9172259,dextrose,1177,1185,Medication
+Clinical_event,0.9973469,discharged,1229,1239,Clinical_event
+Medication,0.99984443,do,1264,1266,Medication
+Medication,0.88804317,##xylamine,1266,1274,Medication
+Medication,0.9983443,pyridoxine,1279,1289,Medication
+Date,0.55630356,one,1313,1316,Date
+Duration,0.8209216,week,1317,1321,Date
+Clinical_event,0.9997937,presented,1341,1350,Clinical_event
+Nonbiological_location,0.98346555,emergency department,1358,1378,Nonbiological_mocation
+Sign_symptom,0.9999285,vomiting,1435,1443,Sign_symptom
+Activity,0.9144215,eat and drink,1478,1491,Activity
+Disease_disorder,0.7401866,gastri,1554,1560,Disease_disorder
+Administration,0.99944156,oral,1589,1593,Administration
+Medication,0.9954303,ranitidine,1594,1604,Medication
+Dosage,0.9812966,150,1606,1609,Dosage
+Medication,0.9513944,alginate acid,1630,1643,Medication
+Duration,0.9673738,14 weeks,1711,1719,Date
+Detailed_description,0.95716375,up to five or six episodes,1746,1772,Detailed_description
+Sign_symptom,0.9998876,vomiting,1776,1784,Sign_symptom
+Detailed_description,0.7812023,day,1789,1792,Frequency
+Detailed_description,0.99472106,diffuse,1958,1965,Severity
+Biological_structure,0.9984409,abdominal,1966,1975,Biological_structure
+Sign_symptom,0.9998797,pain,1976,1980,Sign_symptom
+Biological_structure,0.5220388,ep,1986,1988,Biological_structure
+Sign_symptom,0.5353687,tenderness,1997,2007,Sign_symptom

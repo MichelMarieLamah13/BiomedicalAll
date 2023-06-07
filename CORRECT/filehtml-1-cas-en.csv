@@ -1,69 +1,69 @@
-entity_group,score,word,start,end
-Age,0.9927719,61 - year - old,30,41
-Sex,0.99953187,man,42,45
-Lab_value,0.7047543,71,47,49
-Diagnostic_procedure,0.90426064,body mass,69,78
-Biological_structure,0.99803144,lung,115,119
-Detailed_description,0.9074852,end,143,146
-Disease_disorder,0.8145619,respiratory failure,161,180
-Detailed_description,0.6808875,post,191,195
-Detailed_description,0.9984842,continuous,233,243
-Therapeutic_procedure,0.9964808,oxygen therapy,244,258
-Detailed_description,0.9999025,nocturnal,273,282
-History,0.9703691,smoking,388,395
-Lab_value,0.8273909,pack,412,416
-Detailed_description,0.9994611,post,505,509
-Detailed_description,0.80093503,capilla,510,517
-Medication,0.99991596,per,571,574
-Medication,0.99643695,##ind,574,577
-Medication,0.9895998,##opril,577,582
-Dosage,0.8976161,2 mg,584,588
-Medication,0.99213344,furosemide,602,612
-Dosage,0.8282183,40,614,616
-Lab_value,0.9978923,positive,649,657
-Therapeutic_procedure,0.99973935,prop,752,756
-Therapeutic_procedure,0.98200846,##hylactic treatment,756,774
-Medication,0.9996947,ri,780,782
-Medication,0.9795196,##fa,782,784
-Medication,0.89470893,##mpicin - isoniazid,784,800
-Biological_structure,0.9996431,lung,949,953
-Lab_value,0.9967705,positive,1048,1056
-Diagnostic_procedure,0.5794986,cy,1061,1063
-Disease_disorder,0.66107124,##irus,1072,1076
-Disease_disorder,0.85594326,cm,1078,1080
-Diagnostic_procedure,0.7334873,epstein,1087,1094
-Disease_disorder,0.36582568,virus,1100,1105
-Lab_value,0.9974486,positive,1122,1130
-Therapeutic_procedure,0.5133503,to,1131,1133
-Medication,0.97105473,methylprednisolone,1241,1259
-Dosage,0.99907935,500 mg,1261,1267
-Dosage,0.8475596,375 mg,1281,1287
-Medication,0.99984396,basil,1324,1329
-Medication,0.93885624,##ix,1329,1331
-Medication,0.870448,##imab,1331,1335
-Medication,0.6459367,antibody,1350,1358
-Medication,0.9938301,##ukin - 2,1383,1389
-Dosage,0.7860138,20,1391,1393
-Date,0.9264648,+,1458,1459
-Therapeutic_procedure,0.9900894,im,1483,1485
-Administration,0.83418626,oral,1527,1531
-Therapeutic_procedure,0.9864147,triple therapy,1532,1546
-Dosage,0.9994529,5 mg per day,1588,1600
-Medication,0.9997967,ta,1604,1606
-Medication,0.752188,##cr,1606,1608
-Medication,0.99749756,##olimus,1608,1614
-Dosage,0.99948496,2000 mg per day,1616,1631
-Medication,0.99950075,my,1635,1637
-Medication,0.9719321,##co,1637,1639
-Medication,0.95492005,##ph,1639,1641
-Medication,0.99136245,##late mofetil,1644,1656
-Dosage,0.99963397,20 mg per day,1668,1681
-Medication,0.5267513,pre,1685,1688
-Date,0.45631507,+,1806,1807
-Sign_symptom,0.9927216,respiratory,1833,1844
-Sign_symptom,0.8120839,##ytic infiltrate,2002,2017
-Biological_structure,0.99326444,trans,2022,2027
-Biological_structure,0.9816518,##bronchia,2027,2035
-Administration,0.9884172,intra,2080,2085
-Medication,0.9153246,methylprednisolone treatment,2092,2120
-Dosage,0.8086442,1000,2122,2126
+entity_group,score,word,start,end,correct_label
+Age,0.9927719,61 - year - old,30,41,Age
+Sex,0.99953187,man,42,45,Sex
+Lab_value,0.7047543,71,47,49,Weight
+Diagnostic_procedure,0.90426064,body mass,69,78,Detailed_description
+Biological_structure,0.99803144,lung,115,119,Biological_structure
+Detailed_description,0.9074852,end,143,146,Detailed_description
+Disease_disorder,0.8145619,respiratory failure,161,180,Disease_disorder
+Detailed_description,0.6808875,post,191,195,Detailed_description
+Detailed_description,0.9984842,continuous,233,243,Detailed_description
+Therapeutic_procedure,0.9964808,oxygen therapy,244,258,Therapeutic_Procedure
+Detailed_description,0.9999025,nocturnal,273,282,Detailed_description
+History,0.9703691,smoking,388,395,History
+Lab_value,0.8273909,pack,412,416,Frequency
+Detailed_description,0.9994611,post,505,509,Detailed_description
+Detailed_description,0.80093503,capilla,510,517,Detailed_description
+Medication,0.99991596,per,571,574,Medication
+Medication,0.99643695,##ind,574,577,Medication
+Medication,0.9895998,##opril,577,582,Medication
+Dosage,0.8976161,2 mg,584,588,Dosage
+Medication,0.99213344,furosemide,602,612,Medication
+Dosage,0.8282183,40,614,616,Dosage
+Lab_value,0.9978923,positive,649,657,Lab_value
+Therapeutic_procedure,0.99973935,prop,752,756,Therapeutic_Procedure
+Therapeutic_procedure,0.98200846,##hylactic treatment,756,774,Therapeutic_Procedure
+Medication,0.9996947,ri,780,782,Medication
+Medication,0.9795196,##fa,782,784,Medication
+Medication,0.89470893,##mpicin - isoniazid,784,800,Medication
+Biological_structure,0.9996431,lung,949,953,Biological_structure
+Lab_value,0.9967705,positive,1048,1056,Lab_value
+Diagnostic_procedure,0.5794986,cy,1061,1063,Disease_disorder
+Disease_disorder,0.66107124,##irus,1072,1076,Disease_disorder
+Disease_disorder,0.85594326,cm,1078,1080,Disease_disorder
+Diagnostic_procedure,0.7334873,epstein,1087,1094,Disease_disorder
+Disease_disorder,0.36582568,virus,1100,1105,Disease_disorder
+Lab_value,0.9974486,positive,1122,1130,Lab_value
+Therapeutic_procedure,0.5133503,to,1131,1133,Disease_disorder
+Medication,0.97105473,methylprednisolone,1241,1259,Medication
+Dosage,0.99907935,500 mg,1261,1267,Dosage
+Dosage,0.8475596,375 mg,1281,1287,Dosage
+Medication,0.99984396,basil,1324,1329,Medication
+Medication,0.93885624,##ix,1329,1331,Medication
+Medication,0.870448,##imab,1331,1335,Medication
+Medication,0.6459367,antibody,1350,1358,Detailed_description
+Medication,0.9938301,##ukin - 2,1383,1389,Biological_structure
+Dosage,0.7860138,20,1391,1393,Dosage
+Date,0.9264648,+,1458,1459,Date
+Therapeutic_procedure,0.9900894,im,1483,1485,Therapeutic_Procedure
+Administration,0.83418626,oral,1527,1531,administration
+Therapeutic_procedure,0.9864147,triple therapy,1532,1546,Therapeutic_Procedure
+Dosage,0.9994529,5 mg per day,1588,1600,Dosage
+Medication,0.9997967,ta,1604,1606,Medication
+Medication,0.752188,##cr,1606,1608,Medication
+Medication,0.99749756,##olimus,1608,1614,Medication
+Dosage,0.99948496,2000 mg per day,1616,1631,Dosage
+Medication,0.99950075,my,1635,1637,Medication
+Medication,0.9719321,##co,1637,1639,Medication
+Medication,0.95492005,##ph,1639,1641,Medication
+Medication,0.99136245,##late mofetil,1644,1656,Medication
+Dosage,0.99963397,20 mg per day,1668,1681,Dosage
+Medication,0.5267513,pre,1685,1688,Medication
+Date,0.45631507,+,1806,1807,Date
+Sign_symptom,0.9927216,respiratory,1833,1844,Sign_symptom
+Sign_symptom,0.8120839,##ytic infiltrate,2002,2017,Sign_symptom
+Biological_structure,0.99326444,trans,2022,2027,Therapeutic_Procedure
+Biological_structure,0.9816518,##bronchia,2027,2035,Therapeutic_Procedure
+Administration,0.9884172,intra,2080,2085,administration
+Medication,0.9153246,methylprednisolone treatment,2092,2120,Medication
+Dosage,0.8086442,1000,2122,2126,Dosage

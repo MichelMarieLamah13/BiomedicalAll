@@ -1,61 +1,61 @@
-entity_group,score,word,start,end
-Age,0.98707944,32 - year - old,2,13
-History,0.9968752,polydrug abuse,40,54
-History,0.37396857,cocaine,56,63
-History,0.89722186,amphetamines,74,86
-History,0.9203252,cannabis,92,100
-History,0.9669831,alcoholism,114,124
-Clinical_event,0.98734957,admitted,128,136
-Nonbiological_location,0.86314964,emergency department,144,164
-Sign_symptom,0.9876747,restless,236,244
-Sign_symptom,0.9488779,of appetite,310,321
-Severity,0.9537835,moderate,337,345
-Sign_symptom,0.96305126,headache,346,354
-Diagnostic_procedure,0.99846256,heart rate,378,388
-Lab_value,0.93580186,84 bp,392,397
-Diagnostic_procedure,0.95745397,blood pressure,400,414
-Lab_value,0.7069498,114,418,421
-Diagnostic_procedure,0.8940045,ecg,439,442
-Diagnostic_procedure,0.9992889,physical examination,458,478
-Diagnostic_procedure,0.99708605,laboratory findings,534,553
-Diagnostic_procedure,0.99916613,cpk,559,562
-Lab_value,0.8280345,53,566,568
-Lab_value,0.6017875,i,570,571
-Diagnostic_procedure,0.99907947,hemoglobin,576,586
-Lab_value,0.9844215,17,596,598
-Lab_value,0.99987626,normal,607,613
-Diagnostic_procedure,0.9901066,lactate,614,621
-Lab_value,0.9983789,normal,655,661
-Diagnostic_procedure,0.94533443,blood gas,662,671
-Diagnostic_procedure,0.9685695,pco,689,692
-Diagnostic_procedure,0.9964065,po,703,705
-Dosage,0.9955431,250 mg,755,761
-Medication,0.9997031,des,765,768
-Medication,0.9266285,##oxypipradrol,768,780
-Medication,0.97568774,sedation,879,887
-Medication,0.9884461,oxazepam,893,901
-Date,0.96037114,day 5,920,925
-Sign_symptom,0.5632601,calm,959,963
-Sign_symptom,0.59930146,hall,1014,1018
-Sign_symptom,0.9937158,symptoms,1053,1061
-Diagnostic_procedure,0.9994396,blood samples,1080,1093
-Diagnostic_procedure,0.70744705,ed,1107,1109
-Detailed_description,0.97399884,##tak2 tubes,1109,1119
-Diagnostic_procedure,0.98272794,sample,1207,1213
-Detailed_description,0.79086554,performance,1284,1295
-Diagnostic_procedure,0.9932378,liquid chromatography,1296,1317
-Diagnostic_procedure,0.8111824,uv detection,1338,1350
-Diagnostic_procedure,0.7541686,gas ch,1392,1398
-Diagnostic_procedure,0.98547155,##graphy,1404,1410
-Diagnostic_procedure,0.99281216,mass spectrometry,1411,1428
-Detailed_description,0.90169233,performance,1589,1600
-Diagnostic_procedure,0.90505505,liquid chromatography,1601,1622
-Detailed_description,0.71650726,- tandem,1622,1629
-Diagnostic_procedure,0.9992076,mass spectrometry,1630,1647
-Diagnostic_procedure,0.9748072,hplc,1712,1716
-Diagnostic_procedure,0.67748713,uv detection,1717,1729
-Medication,0.99423754,des,1809,1812
-Medication,0.8994174,##oxypipradrol,1812,1824
-Medication,0.5232923,##pmp,1831,1834
-Medication,0.68703353,hydroch,1897,1904
-Medication,0.91626143,form,1911,1915
+entity_group,score,word,start,end,correct_label
+Age,0.98707944,32 - year - old,2,13,Age
+History,0.9968752,polydrug abuse,40,54,History
+History,0.37396857,cocaine,56,63,History
+History,0.89722186,amphetamines,74,86,History
+History,0.9203252,cannabis,92,100,History
+History,0.9669831,alcoholism,114,124,History
+Clinical_event,0.98734957,admitted,128,136,Clinical_event
+Nonbiological_location,0.86314964,emergency department,144,164,Nonbiological_location
+Sign_symptom,0.9876747,restless,236,244,Sign_symptom
+Sign_symptom,0.9488779,of appetite,310,321,Sign_symptom
+Severity,0.9537835,moderate,337,345,Severity
+Sign_symptom,0.96305126,headache,346,354,Sign_symptom
+Diagnostic_procedure,0.99846256,heart rate,378,388,Diagnostic_procedure
+Lab_value,0.93580186,84 bp,392,397,Lab_value
+Diagnostic_procedure,0.95745397,blood pressure,400,414,Diagnostic_procedure
+Lab_value,0.7069498,114,418,421,Lab_value
+Diagnostic_procedure,0.8940045,ecg,439,442,Diagnostic_procedure
+Diagnostic_procedure,0.9992889,physical examination,458,478,Diagnostic_procedure
+Diagnostic_procedure,0.99708605,laboratory findings,534,553,Diagnostic_procedure
+Diagnostic_procedure,0.99916613,cpk,559,562,Diagnostic_procedure
+Lab_value,0.8280345,53,566,568,Lab_value
+Lab_value,0.6017875,i,570,571,Lab_value
+Diagnostic_procedure,0.99907947,hemoglobin,576,586,Diagnostic_procedure
+Lab_value,0.9844215,17,596,598,Lab_value
+Lab_value,0.99987626,normal,607,613,Severity
+Diagnostic_procedure,0.9901066,lactate,614,621,Diagnostic_procedure
+Lab_value,0.9983789,normal,655,661,Severity
+Diagnostic_procedure,0.94533443,blood gas,662,671,Diagnostic_procedure
+Diagnostic_procedure,0.9685695,pco,689,692,Lab_value
+Diagnostic_procedure,0.9964065,po,703,705,Lab_value
+Dosage,0.9955431,250 mg,755,761,Dosage
+Medication,0.9997031,des,765,768,Medication
+Medication,0.9266285,##oxypipradrol,768,780,Medication
+Medication,0.97568774,sedation,879,887,Medication
+Medication,0.9884461,oxazepam,893,901,Medication
+Date,0.96037114,day 5,920,925,Date
+Sign_symptom,0.5632601,calm,959,963,Sign_symptom
+Sign_symptom,0.59930146,hall,1014,1018,Sign_symptom
+Sign_symptom,0.9937158,symptoms,1053,1061,Sign_symptom
+Diagnostic_procedure,0.9994396,blood samples,1080,1093,Diagnostic_procedure
+Diagnostic_procedure,0.70744705,ed,1107,1109,Detailed_description
+Detailed_description,0.97399884,##tak2 tubes,1109,1119,Detailed_description
+Diagnostic_procedure,0.98272794,sample,1207,1213,Diagnostic_procedure
+Detailed_description,0.79086554,performance,1284,1295,Diagnostic_procedure
+Diagnostic_procedure,0.9932378,liquid chromatography,1296,1317,Diagnostic_procedure
+Diagnostic_procedure,0.8111824,uv detection,1338,1350,Diagnostic_procedure
+Diagnostic_procedure,0.7541686,gas ch,1392,1398,Diagnostic_procedure
+Diagnostic_procedure,0.98547155,##graphy,1404,1410,Diagnostic_procedure
+Diagnostic_procedure,0.99281216,mass spectrometry,1411,1428,Diagnostic_procedure
+Detailed_description,0.90169233,performance,1589,1600,Diagnostic_procedure
+Diagnostic_procedure,0.90505505,liquid chromatography,1601,1622,Diagnostic_procedure
+Detailed_description,0.71650726,- tandem,1622,1629,Diagnostic_procedure
+Diagnostic_procedure,0.9992076,mass spectrometry,1630,1647,Diagnostic_procedure
+Diagnostic_procedure,0.9748072,hplc,1712,1716,Diagnostic_procedure
+Diagnostic_procedure,0.67748713,uv detection,1717,1729,Diagnostic_procedure
+Medication,0.99423754,des,1809,1812,Medication
+Medication,0.8994174,##oxypipradrol,1812,1824,Medication
+Medication,0.5232923,##pmp,1831,1834,Medication
+Medication,0.68703353,hydroch,1897,1904,Medication
+Medication,0.91626143,form,1911,1915,Medication

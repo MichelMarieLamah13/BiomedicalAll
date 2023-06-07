@@ -1,22 +1,22 @@
-entity_group,score,word,start,end
-Detailed_description,0.7722108,spinal,33,39
-Therapeutic_procedure,0.83914846,an,40,42
-Therapeutic_procedure,0.95919037,h,55,56
-Therapeutic_procedure,0.9698771,##yst,56,59
-Therapeutic_procedure,0.969159,##eros,59,63
-Diagnostic_procedure,0.5354159,##co,63,65
-Therapeutic_procedure,0.9825501,##py,65,67
-Therapeutic_procedure,0.7832774,myome,72,77
-Therapeutic_procedure,0.99617285,##ct,77,79
-Therapeutic_procedure,0.83067065,##omy,79,82
-Age,0.97257334,40 - year -,88,96
-Disease_disorder,0.98400056,ep,100,102
-Disease_disorder,0.9366443,##ileptic,102,109
-Dosage,0.9637578,one - tenth,284,293
-Dosage,0.9946387,1mg,314,317
-Dosage,0.9947703,10mg,609,613
-Medication,0.692303,mor,614,617
-Dosage,0.98731613,1mg,644,647
-Dosage,0.65065885,ten times,700,709
-Lab_value,0.6390347,higher,710,716
-Medication,0.9408021,naloxone,1066,1074
+entity_group,score,word,start,end,correct_label
+Detailed_description,0.7722108,spinal,33,39,Biological_structure
+Therapeutic_procedure,0.83914846,an,40,42,Therapeutic_procedure
+Therapeutic_procedure,0.95919037,h,55,56,Therapeutic_procedure
+Therapeutic_procedure,0.9698771,##yst,56,59,Therapeutic_procedure
+Therapeutic_procedure,0.969159,##eros,59,63,Therapeutic_procedure
+Diagnostic_procedure,0.5354159,##co,63,65,Therapeutic_procedure
+Therapeutic_procedure,0.9825501,##py,65,67,Therapeutic_procedure
+Therapeutic_procedure,0.7832774,myome,72,77,Therapeutic_procedure
+Therapeutic_procedure,0.99617285,##ct,77,79,Therapeutic_procedure
+Therapeutic_procedure,0.83067065,##omy,79,82,Therapeutic_procedure
+Age,0.97257334,40 - year -,88,96,Age
+Disease_disorder,0.98400056,ep,100,102,Disease_disorder
+Disease_disorder,0.9366443,##ileptic,102,109,Disease_disorder
+Dosage,0.9637578,one - tenth,284,293,Dosage
+Dosage,0.9946387,1mg,314,317,Dosage
+Dosage,0.9947703,10mg,609,613,Dosage
+Medication,0.692303,mor,614,617,Medication
+Dosage,0.98731613,1mg,644,647,Dosage
+Dosage,0.65065885,ten times,700,709,Lab_value
+Lab_value,0.6390347,higher,710,716,Lab_value
+Medication,0.9408021,naloxone,1066,1074,Medication

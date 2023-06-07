@@ -1,94 +1,94 @@
-entity_group,score,word,start,end
-Age,0.99801093,41 - year - old,10,21
-History,0.993292,prem,22,26
-History,0.9904462,##eno,26,29
-History,0.93562794,##pausal,29,35
-Sex,0.99960035,woman,36,41
-Clinical_event,0.9998721,presented,46,55
-Nonbiological_location,0.9997139,emergency department,63,83
-Biological_structure,0.99995005,chest,97,102
-Sign_symptom,0.9999455,pain,103,107
-Biological_structure,0.94419825,epiga,112,117
-Sign_symptom,0.43638542,##st,117,119
-Biological_structure,0.7912695,##ric,119,122
-Sign_symptom,0.99994326,pain,123,127
-Biological_structure,0.99983174,right scapula,145,158
-Duration,0.98364174,two,201,204
-Medication,0.9980939,medication,246,256
-Clinical_event,0.9991347,presented,261,270
-Medication,0.99973744,medication,287,297
-Lab_value,0.9998369,stable,307,313
-Medication,0.9998914,cl,350,352
-Medication,0.9507384,##opidogrel,352,361
-Medication,0.9998965,ra,426,428
-Medication,0.9861995,##be,428,430
-Medication,0.9960203,##prazole,430,437
-Medication,0.9955504,pantoprazole,443,455
-Medication,0.9982558,##op,562,564
-Medication,0.99788874,##ido,564,567
-Medication,0.9490363,##gre,567,570
-Therapeutic_procedure,0.5062373,dietary,612,619
-Diagnostic_procedure,0.49752295,approaches,620,630
-Sign_symptom,0.61330575,##tension,644,651
-Sign_symptom,0.7231266,exercise,687,695
-Diagnostic_procedure,0.9996003,blood pressure,747,761
-Lab_value,0.9998002,105 / 80 mm,765,774
-Diagnostic_procedure,0.9999645,pulse,787,792
-Lab_value,0.9998109,regular,796,803
-Lab_value,0.9888532,68 beats per,807,819
-Biological_structure,0.9999058,chest,832,837
-Diagnostic_procedure,0.9934196,x - ray,838,843
-Diagnostic_procedure,0.9999243,laboratory data,873,888
-Diagnostic_procedure,0.99976534,hemoglobin,905,915
-Lab_value,0.9999234,119 g / l,919,926
-Diagnostic_procedure,0.9998419,ldl,954,957
-Lab_value,0.98997736,1. 37 mmol / l,961,972
-Diagnostic_procedure,0.99906206,hdl,979,982
-Diagnostic_procedure,0.99911094,triglycerides,998,1011
-Lab_value,0.9998408,0. 7 mmol / l,1015,1025
-Diagnostic_procedure,0.9952938,ap,1034,1036
-Diagnostic_procedure,0.99800926,##oli,1036,1039
-Diagnostic_procedure,0.99732983,##poprotein b,1039,1050
-Lab_value,0.9997911,0. 42 g / l,1054,1062
-Diagnostic_procedure,0.9999546,cr,1071,1073
-Diagnostic_procedure,0.99737996,##eatine kinase (,1073,1088
-Diagnostic_procedure,0.94785506,ck,1088,1090
-Lab_value,0.88187647,49 u / l,1095,1101
-Diagnostic_procedure,0.999699,tr,1114,1116
-Diagnostic_procedure,0.9974452,##oponin t,1116,1124
-Lab_value,0.99984413,22 ng / l,1128,1135
-Diagnostic_procedure,0.9987184,c - reactive protein (,1145,1165
-Diagnostic_procedure,0.99178946,crp,1165,1168
-Lab_value,0.99981266,0,1173,1174
-Lab_value,0.99060893,28 mg,1175,1180
-Diagnostic_procedure,0.9515753,sedimentation rate,1193,1211
-Lab_value,0.9999269,2,1215,1216
-Diagnostic_procedure,0.9999087,as,1230,1232
-Diagnostic_procedure,0.9995442,##par,1232,1235
-Diagnostic_procedure,0.9902058,##tate aminotra,1235,1248
-Diagnostic_procedure,0.99711835,##ferase,1250,1256
-Diagnostic_procedure,0.99808514,as,1258,1260
-Diagnostic_procedure,0.99947256,alanine aminotransferase,1264,1288
-Diagnostic_procedure,0.9617246,biliru,1296,1302
-Diagnostic_procedure,0.99590665,gamma - glutamyl transferase,1307,1333
-Diagnostic_procedure,0.9990477,al,1341,1343
-Diagnostic_procedure,0.83920693,##kaline ph,1343,1352
-Diagnostic_procedure,0.7289595,##pha,1354,1357
-Diagnostic_procedure,0.99316335,amy,1363,1366
-Diagnostic_procedure,0.5193982,ur,1384,1386
-Duration,0.99265975,ten,1427,1430
-Lab_value,0.9620947,four,1456,1460
-Biological_structure,0.99974793,corona,1461,1467
-Diagnostic_procedure,0.6130034,ang,1470,1473
-Lab_value,0.9569116,nine,1485,1489
-Diagnostic_procedure,0.99858725,echo,1490,1494
-Therapeutic_procedure,0.9818299,dil,1557,1560
-Duration,0.9785283,four,1576,1580
-Sign_symptom,0.99994254,lesions,1607,1614
-Sign_symptom,0.995962,resteno,1630,1637
-Sign_symptom,0.9199674,##sis,1637,1640
-Biological_structure,0.99986494,corona,1667,1673
-Diagnostic_procedure,0.99993086,pulmonary,1688,1697
-Disease_disorder,0.91836256,valvular disease,1727,1743
-Diagnostic_procedure,0.99916804,electrophysiological parameters,1780,1811
-Diagnostic_procedure,0.99651706,cardio,1839,1845
+entity_group,score,word,start,end,correct_label
+Age,0.99801093,41 - year - old,10,21,Age
+History,0.993292,prem,22,26,History
+History,0.9904462,##eno,26,29,History
+History,0.93562794,##pausal,29,35,History
+Sex,0.99960035,woman,36,41,Sex
+Clinical_event,0.9998721,presented,46,55,Clinical_event
+Nonbiological_location,0.9997139,emergency department,63,83,Nonbiological_location
+Biological_structure,0.99995005,chest,97,102,Biological_structure
+Sign_symptom,0.9999455,pain,103,107,Sign_symptom
+Biological_structure,0.94419825,epiga,112,117,Biological_structure
+Sign_symptom,0.43638542,##st,117,119,Biological_structure
+Biological_structure,0.7912695,##ric,119,122,Biological_structure
+Sign_symptom,0.99994326,pain,123,127,Sign_symptom
+Biological_structure,0.99983174,right scapula,145,158,Biological_structure
+Duration,0.98364174,two,201,204,Duration
+Medication,0.9980939,medication,246,256,Medication
+Clinical_event,0.9991347,presented,261,270,Clinical_event
+Medication,0.99973744,medication,287,297,Medication
+Lab_value,0.9998369,stable,307,313,Lab_value
+Medication,0.9998914,cl,350,352,Medication
+Medication,0.9507384,##opidogrel,352,361,Medication
+Medication,0.9998965,ra,426,428,Medication
+Medication,0.9861995,##be,428,430,Medication
+Medication,0.9960203,##prazole,430,437,Medication
+Medication,0.9955504,pantoprazole,443,455,Medication
+Medication,0.9982558,##op,562,564,Medication
+Medication,0.99788874,##ido,564,567,Medication
+Medication,0.9490363,##gre,567,570,Medication
+Therapeutic_procedure,0.5062373,dietary,612,619,Therapeutic_procedure
+Diagnostic_procedure,0.49752295,approaches,620,630,Therapeutic_procedure
+Sign_symptom,0.61330575,##tension,644,651,Sign_symptom
+Sign_symptom,0.7231266,exercise,687,695,Sign_symptom
+Diagnostic_procedure,0.9996003,blood pressure,747,761,Diagnostic_procedure
+Lab_value,0.9998002,105 / 80 mm,765,774,Lab_value
+Diagnostic_procedure,0.9999645,pulse,787,792,Diagnostic_procedure
+Lab_value,0.9998109,regular,796,803,Lab_value
+Lab_value,0.9888532,68 beats per,807,819,Lab_value
+Biological_structure,0.9999058,chest,832,837,Biological_structure
+Diagnostic_procedure,0.9934196,x - ray,838,843,Diagnostic_procedure
+Diagnostic_procedure,0.9999243,laboratory data,873,888,Diagnostic_procedure
+Diagnostic_procedure,0.99976534,hemoglobin,905,915,Diagnostic_procedure
+Lab_value,0.9999234,119 g / l,919,926,Lab_value
+Diagnostic_procedure,0.9998419,ldl,954,957,Diagnostic_procedure
+Lab_value,0.98997736,1. 37 mmol / l,961,972,Lab_value
+Diagnostic_procedure,0.99906206,hdl,979,982,Diagnostic_procedure
+Diagnostic_procedure,0.99911094,triglycerides,998,1011,Diagnostic_procedure
+Lab_value,0.9998408,0. 7 mmol / l,1015,1025,Lab_value
+Diagnostic_procedure,0.9952938,ap,1034,1036,Diagnostic_procedure
+Diagnostic_procedure,0.99800926,##oli,1036,1039,Diagnostic_procedure
+Diagnostic_procedure,0.99732983,##poprotein b,1039,1050,Diagnostic_procedure
+Lab_value,0.9997911,0. 42 g / l,1054,1062,Lab_value
+Diagnostic_procedure,0.9999546,cr,1071,1073,Diagnostic_procedure
+Diagnostic_procedure,0.99737996,##eatine kinase (,1073,1088,Diagnostic_procedure
+Diagnostic_procedure,0.94785506,ck,1088,1090,Diagnostic_procedure
+Lab_value,0.88187647,49 u / l,1095,1101,Lab_value
+Diagnostic_procedure,0.999699,tr,1114,1116,Diagnostic_procedure
+Diagnostic_procedure,0.9974452,##oponin t,1116,1124,Diagnostic_procedure
+Lab_value,0.99984413,22 ng / l,1128,1135,Lab_value
+Diagnostic_procedure,0.9987184,c - reactive protein (,1145,1165,Diagnostic_procedure
+Diagnostic_procedure,0.99178946,crp,1165,1168,Diagnostic_procedure
+Lab_value,0.99981266,0,1173,1174,Lab_value
+Lab_value,0.99060893,28 mg,1175,1180,Lab_value
+Diagnostic_procedure,0.9515753,sedimentation rate,1193,1211,Diagnostic_procedure
+Lab_value,0.9999269,2,1215,1216,Lab_value
+Diagnostic_procedure,0.9999087,as,1230,1232,Diagnostic_procedure
+Diagnostic_procedure,0.9995442,##par,1232,1235,Diagnostic_procedure
+Diagnostic_procedure,0.9902058,##tate aminotra,1235,1248,Diagnostic_procedure
+Diagnostic_procedure,0.99711835,##ferase,1250,1256,Diagnostic_procedure
+Diagnostic_procedure,0.99808514,as,1258,1260,Diagnostic_procedure
+Diagnostic_procedure,0.99947256,alanine aminotransferase,1264,1288,Diagnostic_procedure
+Diagnostic_procedure,0.9617246,biliru,1296,1302,Diagnostic_procedure
+Diagnostic_procedure,0.99590665,gamma - glutamyl transferase,1307,1333,Diagnostic_procedure
+Diagnostic_procedure,0.9990477,al,1341,1343,Diagnostic_procedure
+Diagnostic_procedure,0.83920693,##kaline ph,1343,1352,Diagnostic_procedure
+Diagnostic_procedure,0.7289595,##pha,1354,1357,Diagnostic_procedure
+Diagnostic_procedure,0.99316335,amy,1363,1366,Diagnostic_procedure
+Diagnostic_procedure,0.5193982,ur,1384,1386,Diagnostic_procedure
+Duration,0.99265975,ten,1427,1430,Date
+Lab_value,0.9620947,four,1456,1460,Lab_value
+Biological_structure,0.99974793,corona,1461,1467,Biological_structure
+Diagnostic_procedure,0.6130034,ang,1470,1473,Diagnostic_procedure
+Lab_value,0.9569116,nine,1485,1489,Lab_value
+Diagnostic_procedure,0.99858725,echo,1490,1494,Diagnostic_procedure
+Therapeutic_procedure,0.9818299,dil,1557,1560,Diagnostic_procedure
+Duration,0.9785283,four,1576,1580,Duration
+Sign_symptom,0.99994254,lesions,1607,1614,Sign_symptom
+Sign_symptom,0.995962,resteno,1630,1637,Sign_symptom
+Sign_symptom,0.9199674,##sis,1637,1640,Sign_symptom
+Biological_structure,0.99986494,corona,1667,1673,Diagnostic_procedure
+Diagnostic_procedure,0.99993086,pulmonary,1688,1697,Diagnostic_procedure
+Disease_disorder,0.91836256,valvular disease,1727,1743,Disease_disorder
+Diagnostic_procedure,0.99916804,electrophysiological parameters,1780,1811,Diagnostic_procedure
+Diagnostic_procedure,0.99651706,cardio,1839,1845,Diagnostic_procedure
