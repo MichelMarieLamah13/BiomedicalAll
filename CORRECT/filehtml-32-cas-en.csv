@@ -1,0 +1,70 @@
+entity_group,score,word,start,end
+Age,0.95483637,20 - year - old,22,33
+Lab_value,0.5579258,68,51,53
+Clinical_event,0.9677404,admitted,96,104
+Nonbiological_location,0.9982085,intensive care unit,112,131
+Detailed_description,0.9096181,ref,136,139
+Diagnostic_procedure,0.49805224,status,147,153
+Disease_disorder,0.98514277,ep,154,156
+Disease_disorder,0.941602,##ile,156,159
+Disease_disorder,0.98391646,##us,163,165
+Dosage,0.99779886,three doses,174,185
+Administration,0.9022809,sub,189,192
+Medication,0.96427464,lorazepam,202,211
+Dosage,0.76020247,1 mg,215,219
+Disease_disorder,0.8405529,ence,297,301
+Disease_disorder,0.7706742,##litis,304,309
+Medication,0.9854392,medications,415,426
+Medication,0.84431535,je,449,451
+Therapeutic_procedure,0.9020573,##al feeding,487,497
+Therapeutic_procedure,0.9671641,je,506,508
+Therapeutic_procedure,0.8925975,##jun,508,511
+Medication,0.7710425,medications,543,554
+Sign_symptom,0.76064026,status,648,654
+Disease_disorder,0.87407684,ep,655,657
+Date,0.7694171,months,673,679
+Dosage,0.99811196,175 mg,724,730
+Medication,0.9990735,ph,734,736
+Medication,0.946335,##enytoin,736,743
+Dosage,0.9949746,1500 mg,778,785
+Medication,0.99915993,lev,789,792
+Medication,0.9746511,##etiracetam,792,802
+Medication,0.9993674,cl,816,818
+Medication,0.83625144,##obazam,818,824
+Dosage,0.99900854,30 mg,825,830
+Dosage,0.7117758,morning,838,845
+Dosage,0.98993814,40 mg,850,855
+Dosage,0.998685,50 mg,872,877
+Medication,0.905551,amantadine,881,891
+Dosage,0.998806,40 mg,931,936
+Medication,0.9997663,es,940,942
+Medication,0.98593014,##omeprazole,942,952
+Dosage,0.8103886,units,969,974
+Dosage,0.9950981,250 mg,993,999
+Sign_symptom,0.99989676,seizures,1083,1091
+Medication,0.65638494,phen,1127,1131
+Medication,0.8703981,##oin,1133,1136
+Therapeutic_procedure,0.8362299,feeding,1401,1408
+Medication,0.8674921,phen,1413,1417
+Medication,0.7277846,##oin,1419,1422
+Medication,0.91919976,je,1442,1444
+Medication,0.46050343,##jun,1444,1447
+Administration,0.99442565,intra,1548,1553
+Administration,0.53115606,infusion,1560,1568
+Medication,0.98998785,propofol,1572,1580
+Dosage,0.76922965,mg,1598,1600
+Diagnostic_procedure,0.49874833,ph,1640,1642
+Diagnostic_procedure,0.90085137,blood sample,1678,1690
+Diagnostic_procedure,0.89291036,ph,1735,1737
+Lab_value,0.9771942,27,1754,1756
+Detailed_description,0.8027332,- to,1828,1831
+Lab_value,0.99449366,38,1847,1849
+Medication,0.99527514,ph,1974,1976
+Medication,0.89684695,##enytoin,1976,1983
+Medication,0.92967933,je,1988,1990
+Medication,0.3950598,##jun,1990,1993
+Medication,0.7193991,##omy,1996,1999
+Dosage,0.9582712,650 mg,2003,2009
+Dosage,0.9708769,mg,2063,2065
+Medication,0.7662688,jejun,2070,2075
+Medication,0.8384532,##omy,2078,2081

@@ -1,0 +1,147 @@
+Here's the translation of the text into English:
+
+The presented case concerns a 14-year-old boy, weighing 64 kg and measuring 1.72 meters (body surface area of 1.75 m2), with no medical history. Following the diagnosis of osteosarcoma of the distal right femur with pulmonary metastases, the application of the Children Oncology Group AOST0331 protocol began. The patient received MAP cycles for the first ten weeks (doxorubicin 37.5 mg/m2/dose in combination with cisplatin at a dose of 60 mg/m2/dose for two days, weeks 1 and 6, and with methotrexate at a dose of 12 g/m2/dose, weeks 4, 5, 9, and 10), followed by MAPIE (doxorubicin at a dose of 37.5 mg/m2/dose in combination with cisplatin at a dose of 60 mg/m2/dose for two days, weeks 12 and 28, methotrexate at a dose of 12 g/m2/dose, weeks 15, 19, 23, 27, 31, 35, 39, 40, ifosfamide at a dose of 2.8 g/m2/dose in combination with etoposide at a dose of 100 mg/m2/dose for five days, weeks 16, 24, and 32, and doxorubicin at a dose of 37.5 mg/m2/dose for two days in combination with ifosfamide at a dose of 3 g/m2/dose for three days, weeks 20 and 36). At the start of treatment, the patient had no known drug allergies. As for other health problems during hospitalization, the only reported element is contact dermatitis on the left upper limb, secondary to the adhesive of the central intravenous line dressing. The rash appeared the day after the central line was installed, before the administration of the first dose of methotrexate. The patient was initially seen by the stoma therapist, and nystatin cream was prescribed. On day three, there was an increase in the rash and erythema. The nystatin cream was replaced with 0.05% betamethasone dipropionate cream, applied topically twice a day for ten days. The dermatitis then disappeared.
+
+During the first administration of high-dose methotrexate (day 0), an initial allergic reaction was observed. The timeline of events surrounding the occurrence of the allergic reaction for the different doses of methotrexate is detailed in Table I.
+
+At the medical round the next day, the treating team noted the complete disappearance of the papules and erythema. After this first reaction, considering the patient's context, the speed of relief and disappearance of the rash, the medical team decided to administer the scheduled dose of methotrexate the following week. During the second dose (day 7), the patient received the planned premedication before the administration of methotrexate. Due to the occurrence of a new allergic reaction, the methotrexate infusion was prematurely stopped. At that time, the patient was supposed to receive ten more doses of methotrexate to complete the treatment. Therefore, a decision had to be made regarding the course of treatment. The allergy clinic was consulted to review the patient's file. Given the absence of other therapeutic options and the vital importance of continuing the patient's treatment, the decision was made to develop a methotrexate desensitization strategy.
+
+After reviewing the available data in the medical literature, a desensitization protocol
+
+ was developed. The protocol details are presented in Table II. The objective of the desensitization protocol was to continue administering the total dose of methotrexate planned in the treatment protocol, namely 12 g/m2 (20 g for this patient, which is the maximum dose), with a prolonged infusion duration.
+
+The first desensitization took place during the third dose (day 36), administered in the intensive care unit. No premedication was administered. Bags no. 1 and 2 were administered without complications. During the administration of bag no. 3, a urticarial reaction occurred. The allergist then recommended administering immediate premedication during the next desensitization treatment, namely intravenous diphenhydramine at a dose of 50 mg and intravenous methylprednisolone at a dose of 125 mg, to be administered before bag no. 3. On day 42, a second desensitization was performed for the administration of the fourth dose of methotrexate. The administration of this dose, as well as all subsequent doses, took place in the hematology-oncology unit rather than the intensive care unit. During this desensitization, the premedication was administered according to the procedure. The concentrations and infusion rates of the methotrexate bags remained unchanged, and no reaction was detected. For the third desensitization (fifth dose of methotrexate), the same method as the previous desensitization was followed. A maculopapular rash reappeared on the face and arms, without angioedema. Two doses of intravenous diphenhydramine, an initial dose of 20 mg, followed by a second dose of 50 mg three hours later, totaling 70 mg (1.1 mg/kg/dose), were administered. Nevertheless, the treatment was continued. For subsequent treatments, it was decided to administer the diphenhydramine and methylprednisolone premedication before the administration of the first bag and to administer a second premedication before the administration of bag no. 3. The subsequent desensitization was well tolerated, and no reaction was observed in the patient. The same applied to all other methotrexate desensitizations undergone by this patient, allowing him to complete the planned chemotherapy protocol.
+
+Table I. Timeline of Events
+
+FIRST DOSE OF METHOTREXATE (DAY 0)
+
+11:50 AM
+
+Start of intravenous infusion of 20 g methotrexate (12 g/m2, maximum dose) over 4 hours
+
+1:10 PM
+
+Generalized papular skin rash; significant itching.
+Normal vital signs, no signs or symptoms of respiratory distress
+
+Immediate intravenous hydrocortisone 300 mg; Treatment
+
+Oral hydroxyzine 25 mg every 6 hours as needed
+
+2:10 PM
+
+Patient sleeping comfortably
+
+4:00 PM
+
+Noticeable improvement in rash, itching relieved.
+Completion of methotrexate infusion
+
+8:00 PM
+
+Complete disappearance of rash
+
+LABORATORY VALUES
+
+Methotrexate elimination:
+T24 h = 3.23 µmol/L
+T48 h = 0.20 µmol/L
+T72 h = 0.05 µmol/L
+
+Creatinine
+(normal range = 38-94 µmol/L):
+Day 0 = 60 µmol/L
+Day 1 = 91 µmol/L
+Day 2 = 69 µmol/L
+Day 3 = 64 µmol/L
+
+SECOND DOSE OF METHOTREXATE (DAY 7)
+
+12:00 PM
+
+Start of intravenous infusion of 20 g methotrexate (12 g/m2) over 4 hours
+
+Premedication 30 minutes before methotrexate infusion:
+• Intravenous diphenhydramine 5 mg
+• Intravenous dexamethasone 18 mg
+• Intravenous ranitidine 50 mg
+
+Medications at bedside:
+• Intravenous diphenhydramine 50 mg
+• Intravenous hydrocortisone 250 mg
+• Subcutaneous epinephrine 0.5 ml
+
+1:20 PM
+
+Significant maculopapular rash
+
+Stoppage of methotrexate infusion (received dose: 6.7 g)
+
+LABORATORY VALUES
+
+Methotrexate elimination:
+T24 h (day 8) = 0.51 µmol/L
+T48 h (day 9) = 0.02 µmol/L
+
+Creatinine (normal range = 38-94 µmol/L):
+Day 7 = 65 µmol/L
+Day 8 = 92 µmol/L
+Day 9 = 68 µmol/L
+
+THIRD DOSE OF METHOTREXATE (DAY 36) - FIRST DESENSITIZATION
+
+9:05 AM
+
+Start of administration of bag no. 1 in the intensive care unit
+
+Medications at bedside:
+Intravenous diphenhydramine 50 mg;
+Intravenous ranitidine 50 mg;
+Intramuscular epinephrine 0.3 mg;
+Intravenous methylprednisolone 125 mg;
+Inhaled salbutamol 1000 mcg;
+Nebulized epinephrine 5 mg
+
+11:35 AM
+
+Start of administration of bag no. 2 in the intensive care unit
+
+1:05 PM
+
+Start of administration of bag no. 3 in the intensive care unit
+
+2:50 PM
+
+Mild itching and redness around the port-a-cath and left arm; no angioedema
+
+Immediate intravenous diphenhydramine 50 mg
+
+5:05 PM
+
+Completion of infusion of bag no. 3
+
+5:30 PM
+
+Appearance of urticarial lesions on the face
+
+7:50 PM
+
+Increase in rash on the chest and hips
+
+LABORATORY VALUES
+
+Methotrexate elimination:
+
+
+T24 h (day 37) = 7.53 µmol/L
+T48 h (day 38) = 0.15 µmol/L
+T72 h (day 39) = 0.06 µmol/L
+
+Creatinine (normal range = 38-94 µmol/L):
+Day 36 = 61 µmol/L
+Day 37 = 93 µmol/L
+Day 38 = 76 µmol/L
+Day 39 = 73 µmol/L
+
+IV: intravenous; SC: subcutaneous; T24 h: at 24 hours; T48 h: at 48 hours; T72 h: at 72 hours

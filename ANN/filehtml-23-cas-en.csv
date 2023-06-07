@@ -1,0 +1,68 @@
+entity_group,score,word,start,end
+Age,0.98730433,50 - year - old,2,13
+Personal_background,0.99864393,african,14,21
+Sex,0.999186,woman,22,27
+Clinical_event,0.99963224,presented,28,37
+Nonbiological_location,0.9885371,emergency department,45,65
+History,0.99857455,no known medical history,151,175
+Medication,0.99826777,medication,239,249
+History,0.92696,health,261,267
+History,0.81344247,aller,285,290
+Sign_symptom,0.961437,weight,430,436
+Diagnostic_procedure,0.99973273,blood tests,460,471
+Sign_symptom,0.999864,pan,481,484
+Sign_symptom,0.99704164,##cy,484,486
+Sign_symptom,0.74673927,##topenia,486,493
+Diagnostic_procedure,0.9910457,crea,536,540
+Lab_value,0.99610233,45,560,562
+Dosage,0.5724977,ml /,563,566
+Diagnostic_procedure,0.9866805,serum creatinine,651,667
+Lab_value,0.99748564,98,677,679
+Diagnostic_procedure,0.9827121,laboratory values,692,709
+Diagnostic_procedure,0.9916221,computed,799,807
+Biological_structure,0.9963671,brain,820,825
+Diagnostic_procedure,0.59746933,magnetic,826,834
+Biological_structure,0.98752755,cerebral,952,960
+Disease_disorder,0.62025,hc,1032,1034
+Diagnostic_procedure,0.99687934,cd4 t - cell count,1057,1073
+Lab_value,0.9519116,46 cells / µl,1078,1089
+Medication,0.9996911,dex,1248,1251
+Medication,0.7275383,##amethason,1251,1260
+Dosage,0.99797326,4 mg,1273,1277
+Administration,0.61674213,intra,1278,1283
+Dosage,0.90523773,##ven,1283,1286
+Dosage,0.95889753,every six hours,1292,1307
+Dosage,0.8856056,2 mg oral,1327,1336
+Dosage,0.9586198,every six hours,1339,1354
+Dosage,0.99867785,1 mg,1381,1385
+Administration,0.8956046,oral,1386,1390
+Dosage,0.8714485,every six hours,1393,1408
+Medication,0.97908026,to,1436,1438
+Administration,0.9966264,oral,1454,1458
+Medication,0.7867725,pyr,1483,1486
+Medication,0.68575096,##imetham,1486,1493
+Medication,0.6475049,f,1498,1499
+Medication,0.9334428,sulfadiazine,1516,1528
+Dosage,0.9961159,200 mg,1592,1598
+Medication,0.8541676,p,1602,1603
+Dosage,0.80164737,daily,1631,1636
+Dosage,0.61553556,75,1645,1647
+Dosage,0.7787294,50 mg once daily,1701,1717
+Dosage,0.9627143,15 mg,1736,1741
+Medication,0.9997662,sul,1766,1769
+Medication,0.7116118,##fa,1769,1771
+Medication,0.9697499,##diazine,1771,1778
+Dosage,0.9604588,1,1783,1784
+Disease_disorder,0.69545627,to,1856,1858
+Disease_disorder,0.9132274,##las,1861,1864
+Administration,0.9919853,oral,1923,1927
+Therapeutic_procedure,0.6797666,hiv,1928,1931
+Medication,0.9982658,ten,1956,1959
+Medication,0.99372137,##of,1959,1961
+Medication,0.7287585,##ovir,1961,1965
+Medication,0.9998086,em,1987,1989
+Medication,0.8889865,##tricitabine,1989,2000
+Medication,0.97504735,atazanavir,2022,2032
+Medication,0.9983292,ri,2058,2060
+Medication,0.9810991,##tonavir,2060,2067
+Disease_disorder,0.9453187,hc,2106,2108

@@ -1,0 +1,17 @@
+A 50-year-old African woman presented to the emergency department with neurological symptoms of confusion, ataxia, paresthesia, and headaches. She had no known medical history as she had not seen a doctor for years. She was not taking any medication or natural health products, had no allergies, did not smoke, and did not consume alcohol. The described symptoms had progressively worsened over the past two weeks. She also noted weight loss in recent months. Blood tests revealed pancytopenia and renal insufficiency with an estimated creatinine clearance of 45 ml/min according to the Cockcroft and Gault formula, based on a weight of 48.2 kg and a serum creatinine level of 98 µmol/L. The laboratory values upon admission are detailed in Table I. Radiological examinations, including axial brain computed tomography, brain magnetic resonance imaging, and microbiological tests, allowed the doctors to diagnose cerebral toxoplasmosis associated with cerebral edema. Subsequently, further analysis revealed the presence of HIV and HCV. Upon admission, the CD4 T-cell count was 46 cells/µl (normal count: 700 to 1100 cells/µl), and the viral load was 140,896 copies/ml.
+
+To treat the edema secondary to cerebral toxoplasmosis, the patient received dexamethasone, initially 4 mg intravenously every six hours for 24 hours, then 2 mg orally every six hours for 24 hours, and finally 1 mg orally every six hours for 24 hours. To eradicate toxoplasmosis, an oral treatment consisting of pyrimethamine, folinic acid, and sulfadiazine was initiated on day 1. The patient received a loading dose of 200 mg of pyrimethamine, followed by a daily dose of 75 mg. For folinic acid, the patient received a dose of 50 mg once daily until day 6, then 15 mg once daily. The dose of sulfadiazine was 1,500 mg four times a day. Table II summarizes the treatment choices for Toxoplasma gondii infection.
+
+On day 7, the medical team initiated oral HIV treatment consisting of tenofovir (300 mg once daily), emtricitabine (200 mg once daily), atazanavir (300 mg once daily), and ritonavir (100 mg once daily). No treatment for HCV was initiated during hospitalization.
+
+From the patient's admission, liver enzyme levels gradually increased, reaching their maximum on day 13 at 473 U/L for aspartate aminotransferase (AST) and 193 U/L for alanine aminotransferase (ALT). The antiretroviral therapy (ART) was therefore interrupted, and sulfadiazine was replaced with clindamycin (600 mg four times a day, initially intravenously for ten days, then orally). AST and ALT levels gradually decreased. On day 22, ART was reintroduced at the same doses without an increase in liver enzyme levels. Approximately two weeks later, oral trimethoprim-sulfamethoxazole (TMP-SMX; 160 mg-800 mg three times a week) was initiated to prevent opportunistic Pneumocystis jiroveci infection. Liver enzyme levels increased again within five days. Figure 1 shows the evolution of laboratory test results assessing liver function. TMP-SMX was then replaced with dapsone, 100 mg once daily orally. Liver enzyme levels returned to their baseline within three days.
+
+Table III. Dosage of oral medications upon discharge:
+- Pyrimethamine: 75 mg once daily
+- Folinic acid: 15 mg once daily
+- Clindamycin: 600 mg four times a day
+- Dapsone: 100 mg once a day
+- Tenofovir: 300 mg every two days
+- Emtricitabine: 200 mg every two days
+- Atazanavir: 300 mg once daily
+- Ritonavir: 100 mg once daily

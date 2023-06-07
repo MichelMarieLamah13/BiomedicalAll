@@ -1,0 +1,85 @@
+entity_group,score,word,start,end
+Age,0.55465275,young,34,39
+Personal_background,0.9984516,caucasian,40,49
+Sex,0.99822146,man,50,53
+Date,0.9963028,age of 12,79,88
+Detailed_description,0.9998653,stage iv,94,102
+Detailed_description,0.9991315,des,103,106
+Sign_symptom,0.9997079,tumor,116,121
+Biological_structure,0.9996958,lung,126,130
+Sign_symptom,0.99534756,meta,131,135
+Sign_symptom,0.9940084,mass,173,177
+Sign_symptom,0.8289072,compressing,182,193
+Biological_structure,0.99469674,right,198,203
+Biological_structure,0.9930587,kidney,204,210
+Severity,0.9890219,severe,223,229
+Sign_symptom,0.9998641,hydro,230,235
+Dosage,0.9901674,five cycles,267,278
+Detailed_description,0.9998586,neo,282,285
+Detailed_description,0.9936358,##ad,285,287
+Medication,0.9997999,chemotherapy,294,306
+Medication,0.9997876,if,308,310
+Medication,0.58791554,##fa,312,314
+Medication,0.99605525,et,333,335
+Sign_symptom,0.9389213,tumor,351,356
+Medication,0.9892659,chemotherapy,387,399
+Medication,0.97934693,cy,401,403
+Medication,0.9832001,do,419,421
+Medication,0.9250082,##or,422,424
+Medication,0.96024424,vin,432,435
+Therapeutic_procedure,0.93040204,radio,492,497
+Date,0.96412057,eight months after,506,524
+Detailed_description,0.99444,autologous,570,580
+Therapeutic_procedure,0.9056319,bone marrow transplantation,581,608
+Therapeutic_procedure,0.45182863,conditioning,632,644
+Medication,0.99956304,et,651,653
+Medication,0.8905556,##op,653,655
+Medication,0.86694807,th,662,664
+Medication,0.9188709,cyclophosphamide,676,692
+Therapeutic_procedure,0.41522512,treatments,748,758
+Severity,0.99965537,moderate,798,806
+Detailed_description,0.9662337,end,817,820
+Detailed_description,0.98324156,chronic,827,834
+Disease_disorder,0.8728933,renal,835,840
+Therapeutic_procedure,0.8161502,hemodialysis sessions,850,871
+Date,0.9976972,four and a half years after,887,914
+Detailed_description,0.6587243,twice,937,942
+Date,0.96152514,five years,952,962
+Disease_disorder,0.9997191,my,1050,1052
+Disease_disorder,0.99878925,##elo,1052,1055
+Disease_disorder,0.85194665,##dysplastic syndrome,1055,1074
+Detailed_description,0.8759738,reduced,1178,1185
+Medication,0.9343703,flu,1224,1227
+Medication,0.5870521,##mo,1255,1257
+Clinical_event,0.9997886,discharged,1360,1370
+Nonbiological_location,0.99903667,hospital,1380,1388
+Date,0.9935228,34 days after,1389,1402
+Therapeutic_procedure,0.9993831,dialysis,1449,1457
+Nonbiological_location,0.6330314,home,1461,1465
+Frequency,0.83343554,two,1466,1469
+Detailed_description,0.58138615,to three times,1470,1484
+Frequency,0.55668634,a,1485,1486
+Date,0.70375067,five months,1513,1524
+Clinical_event,0.99982697,presented,1587,1596
+Nonbiological_location,0.99546474,emergency department,1604,1624
+Sign_symptom,0.9993131,ed,1637,1639
+Sign_symptom,0.993964,##ema,1639,1642
+Date,0.7850475,days,1667,1671
+Lab_value,0.5696453,good,1691,1695
+Diagnostic_procedure,0.9992044,blood tests,1740,1751
+Detailed_description,0.6473033,several,1794,1801
+Diagnostic_procedure,0.999761,blood test,1802,1812
+Lab_value,0.999882,abnormal,1826,1834
+Diagnostic_procedure,0.9999591,cr,1887,1889
+Diagnostic_procedure,0.9961718,##ea,1889,1891
+Diagnostic_procedure,0.99837554,##tinine,1891,1897
+Lab_value,0.9638391,584 µmol / l,1901,1911
+Diagnostic_procedure,0.9999392,ur,1937,1939
+Diagnostic_procedure,0.75573075,##ea,1939,1941
+Lab_value,0.9994399,10. 1 mmol / l,1945,1956
+Diagnostic_procedure,0.9965926,albumin,1983,1990
+Lab_value,0.96944183,31 g /,1994,1999
+Diagnostic_procedure,0.99987364,phosphorus,2025,2035
+Lab_value,0.9982857,1. 4 mmol / l,2039,2049
+Diagnostic_procedure,0.99990654,magnesium,2080,2089
+Lab_value,0.99632215,1. 14 mmol / l,2093,2104

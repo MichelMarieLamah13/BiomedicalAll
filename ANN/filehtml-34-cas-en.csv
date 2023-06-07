@@ -1,0 +1,75 @@
+entity_group,score,word,start,end
+Age,0.9769166,32 - year - old,2,13
+Personal_background,0.9983771,caucasian,14,23
+Sex,0.9899435,female,24,30
+History,0.48554608,68,48,50
+History,0.86754704,drug allergies,69,83
+History,0.862034,history,104,111
+History,0.8196745,allergic,123,131
+Clinical_event,0.8793849,admitted,144,152
+Date,0.9995528,four months prior,206,223
+Sign_symptom,0.9996517,fatigue,269,276
+Sign_symptom,0.85050577,br,281,283
+Diagnostic_procedure,0.9999182,hematological tests,291,310
+Detailed_description,0.64488333,acute,336,341
+Sign_symptom,0.98040515,re,375,377
+Therapeutic_procedure,0.9036595,therapy,414,421
+Dosage,0.95147824,four cycles,436,447
+Detailed_description,0.9450002,hypercva,451,459
+Medication,0.9998504,chemotherapy,461,473
+Detailed_description,0.9247357,fraction,475,483
+Medication,0.9984269,vin,506,509
+Medication,0.99782014,do,519,521
+Medication,0.95175797,##or,522,524
+Medication,0.69547397,dex,532,535
+Medication,0.5252347,##ame,535,538
+Diagnostic_procedure,0.99912417,cytogenetic analysis,548,568
+Diagnostic_procedure,0.48152635,chromosome,610,620
+Disease_disorder,0.9979632,ml,641,643
+Disease_disorder,0.9985001,leukemia,716,724
+Coreference,0.506406,cell,753,757
+Therapeutic_procedure,0.5971947,transplantation,758,773
+Subject,0.48283264,unrelated,782,791
+Subject,0.30323425,donor,792,797
+Dosage,0.99796283,high,904,908
+Dosage,0.95552963,dose,909,913
+Medication,0.97479224,cycl,914,918
+Medication,0.9906872,##op,918,920
+Medication,0.9651701,##hosphamide,920,930
+Diagnostic_procedure,0.6057505,renal,1019,1024
+Diagnostic_procedure,0.94550216,liver function,1059,1073
+Diagnostic_procedure,0.99634045,alanine amino,1102,1115
+Diagnostic_procedure,0.9856514,as,1135,1137
+Diagnostic_procedure,0.99994135,hem,1176,1179
+Diagnostic_procedure,0.85918,##atological parameters,1179,1200
+Diagnostic_procedure,0.55048686,ne,1234,1236
+Diagnostic_procedure,0.5238603,##hil,1241,1244
+Diagnostic_procedure,0.9413272,platelets,1260,1269
+Lab_value,0.9997694,normal,1317,1323
+Date,0.9891047,five days,1333,1342
+Sign_symptom,0.75132287,fever episode,1398,1411
+Sign_symptom,0.87669116,headaches,1457,1466
+Sign_symptom,0.9998963,rhino,1471,1476
+Sign_symptom,0.6249424,##rr,1476,1478
+Sign_symptom,0.9771149,##hea,1478,1481
+Administration,0.8731112,intra,1538,1543
+Medication,0.8511134,piperacillin,1565,1577
+Medication,0.9656846,tazobactam,1578,1588
+Dosage,0.4886938,3,1590,1591
+Dosage,0.9571444,375 g,1592,1597
+Dosage,0.5995714,six,1604,1607
+Medication,0.9971528,anti,1692,1696
+Medication,0.9998424,ci,1754,1756
+Medication,0.9989736,##pro,1756,1759
+Medication,0.99056774,##fl,1759,1761
+Medication,0.85833806,##oxacin,1761,1767
+Disease_disorder,0.99644196,bacterial infections,1782,1802
+Sign_symptom,0.8345598,sinusitis symptoms,1850,1868
+Diagnostic_procedure,0.9999201,ct,1915,1917
+Sign_symptom,0.9998722,op,1948,1950
+Sign_symptom,0.99747145,##ac,1950,1952
+Biological_structure,0.9997758,et,1969,1971
+Biological_structure,0.59792095,##hmoid,1971,1976
+Detailed_description,0.82238436,acute,2012,2017
+Disease_disorder,0.6691664,sin,2018,2021
+Date,0.9770033,eighth day after,2074,2090

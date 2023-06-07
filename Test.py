@@ -11,18 +11,18 @@ class Test:
     def test():
         tokenizer = AutoTokenizer.from_pretrained("d4data/biomedical-ner-all")
         model = AutoModelForTokenClassification.from_pretrained("d4data/biomedical-ner-all")
-        model.l
         nlp = pipeline("ner", model=model, tokenizer=tokenizer, aggregation_strategy="simple")
         files = Test.get_files("CAS")
         nb_files = len(files)
         for i, filename in enumerate(files):
-            basename, ext = os.path.splitext(filename)
-            with open(f"CAS/{filename}") as file:
-                txt = file.read()
-                res = nlp(txt)
-                df = pd.DataFrame(res)
-                df.to_csv(f'ANN/{basename}.csv', index=False)
-                print(f"[{i+1}/{nb_files}] -> File {filename} annotated")
+            if '-en.txt' in filename:
+                basename, ext = os.path.splitext(filename)
+                with open(f"CAS/{filename}") as file:
+                    txt = file.read()
+                    res = nlp(txt)
+                    df = pd.DataFrame(res)
+                    df.to_csv(f'ANN/{basename}.csv', index=False)
+                    print(f"[{i+1}/{nb_files}] -> File {filename} annotated")
 
     @staticmethod
     def metrics():
