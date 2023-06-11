@@ -1,6 +1,6 @@
 entity_group,score,word,start,end,correct_label
 Age,0.9895245,32 - year - old,10,21,Age
-Personal_background,0.9985636,ghanaian,22,30,Personnal_background
+Personal_background,0.9985636,ghanaian,22,30,Personal_background
 Sex,0.99877113,woman,31,36,Sex
 Duration,0.5718768,weeks,47,52,Duration
 Sign_symptom,0.9999461,vomiting,89,97,Sign_symptom
@@ -46,7 +46,7 @@ Medication,0.9983443,pyridoxine,1279,1289,Medication
 Date,0.55630356,one,1313,1316,Date
 Duration,0.8209216,week,1317,1321,Date
 Clinical_event,0.9997937,presented,1341,1350,Clinical_event
-Nonbiological_location,0.98346555,emergency department,1358,1378,Nonbiological_mocation
+Nonbiological_location,0.98346555,emergency department,1358,1378,Nonbiological_location
 Sign_symptom,0.9999285,vomiting,1435,1443,Sign_symptom
 Activity,0.9144215,eat and drink,1478,1491,Activity
 Disease_disorder,0.7401866,gastri,1554,1560,Disease_disorder

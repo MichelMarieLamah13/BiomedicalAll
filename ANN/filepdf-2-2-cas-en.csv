@@ -1,0 +1,34 @@
+entity_group,score,word,start,end
+Age,0.99702245,66 - year - old,2,13
+Therapeutic_procedure,0.9401043,treated,34,41
+Date,0.9793142,one year,42,50
+Disease_disorder,0.93772894,rectal,59,65
+Disease_disorder,0.99011004,adenocarcinoma,66,80
+History,0.9527093,abdominoperineal amputation,86,113
+Clinical_event,0.99963164,admitted,160,168
+Detailed_description,0.9998653,bilateral,174,183
+Sign_symptom,0.7945026,ureter,184,190
+Sign_symptom,0.5225487,##ohyd,190,194
+Disease_disorder,0.59528434,##rone,194,198
+Sign_symptom,0.5645665,##phrosis,198,205
+Biological_structure,0.9998504,retro,228,233
+Biological_structure,0.9223934,##per,233,236
+Biological_structure,0.98876804,##nea,239,242
+Disease_disorder,0.9881091,renal failure,269,282
+Diagnostic_procedure,0.9337286,creatinine,290,300
+Lab_value,0.88637763,370 mmol /,310,319
+Detailed_description,0.999845,standard,335,343
+Detailed_description,0.98273236,double - j,344,352
+Therapeutic_procedure,0.9767687,stents,353,359
+Detailed_description,0.9991743,transient,377,386
+Lab_value,0.9995485,improvement,387,398
+Diagnostic_procedure,0.75072664,renal,402,407
+Lab_value,0.9993155,worse,430,435
+Date,0.9963417,two weeks,440,449
+Detailed_description,0.99989605,tailed,483,489
+Detailed_description,0.99382013,double - j,490,498
+Therapeutic_procedure,0.82382005,stents,499,505
+Lab_value,0.62017983,dil,527,530
+Lab_value,0.9988973,stabilization,540,553
+Diagnostic_procedure,0.996543,renal function,557,571
+Lab_value,0.99814415,180 mmol / l,586,596

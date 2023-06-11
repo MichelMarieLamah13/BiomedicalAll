@@ -2,7 +2,7 @@ entity_group,score,word,start,end,correct_label
 Age,0.98730433,50 - year - old,2,13,Age
 Personal_background,0.99864393,african,14,21,Personal_background
 Sex,0.999186,woman,22,27,Sex
-Clinical_event,0.99963224,presented,28,37,Clinical_evant
+Clinical_event,0.99963224,presented,28,37,Clinical_event
 Nonbiological_location,0.9885371,emergency department,45,65,Nonbiological_location
 History,0.99857455,no known medical history,151,175,History
 Medication,0.99826777,medication,239,249,Medication

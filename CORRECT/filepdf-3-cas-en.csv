@@ -1,0 +1,83 @@
+entity_group,score,word,start,end
+Age,0.9976417,45 - year - old,2,13
+Sex,0.9995552,female,14,20
+History,0.99949014,no significant medical history,34,64
+Clinical_event,0.9906646,presented,65,74
+Detailed_description,0.81220317,left,92,96
+Sign_symptom,0.6217632,sided,97,102
+Biological_structure,0.9995855,lower back,103,113
+Sign_symptom,0.800533,palpitations,130,142
+Sign_symptom,0.9972922,headache,144,152
+Sign_symptom,0.92857295,sweating,169,177
+Sign_symptom,0.6446219,ur,208,210
+Sign_symptom,0.93549365,disorders,216,225
+Sign_symptom,0.9995803,hem,229,232
+Sign_symptom,0.54428613,##at,232,234
+Diagnostic_procedure,0.9999304,physical examination,240,260
+Diagnostic_procedure,0.99995226,blood pressure,272,286
+Lab_value,0.99977684,130 / 80 mmhg,290,301
+Lab_value,0.9645768,100 mmhg,334,342
+Diagnostic_procedure,0.8961838,somatic examination,388,407
+Diagnostic_procedure,0.9793762,intraven,420,428
+Diagnostic_procedure,0.8516759,##ous urography,428,441
+Diagnostic_procedure,0.71804154,iv,443,445
+Detailed_description,0.9878006,rounded,457,464
+Detailed_description,0.9591819,well,466,470
+Detailed_description,0.96766764,defined,471,478
+Detailed_description,0.8381115,2 cm - sized,480,490
+Detailed_description,0.5275368,lac,491,494
+Biological_structure,0.99790347,ve,512,514
+Biological_structure,0.9802837,##al dome,517,524
+Biological_structure,0.9946707,trans,537,542
+Biological_structure,0.89135283,##inal,547,551
+Diagnostic_procedure,0.99866307,ultrasound,552,562
+Detailed_description,0.99990416,solid,574,579
+Sign_symptom,0.9885189,mass,580,584
+Distance,0.9973859,1. 5 cm,622,628
+Diagnostic_procedure,0.96987724,magnetic resonance imaging,643,669
+Diagnostic_procedure,0.92357,mri,671,674
+Detailed_description,0.67063576,well,691,695
+Detailed_description,0.64406675,rounded,705,712
+Sign_symptom,0.9758917,les,713,716
+Coreference,0.93602526,##ion,716,719
+Distance,0.99665105,17 mm,730,735
+Biological_structure,0.9935761,adrenal glands,817,831
+Biological_structure,0.90527153,frontal,871,878
+Biological_structure,0.9846597,frontal,912,919
+Diagnostic_procedure,0.99558264,t,931,932
+Diagnostic_procedure,0.99336326,imaging,943,950
+Sign_symptom,0.98749024,tumor,959,964
+Coreference,0.518222,tumor,1024,1029
+Disease_disorder,0.8112704,pheochromocytoma,1081,1097
+Diagnostic_procedure,0.9888125,vanillylmandelic acid,1130,1151
+Diagnostic_procedure,0.9862455,vma,1153,1156
+Lab_value,0.9958032,normal,1170,1176
+Diagnostic_procedure,0.9992149,catecholamine,1181,1194
+Diagnostic_procedure,0.99675745,fundus examination,1222,1240
+Sign_symptom,0.99870193,narrowed arteries,1250,1267
+Detailed_description,0.99972934,hyper,1326,1331
+Disease_disorder,0.98115516,cho,1339,1342
+Disease_disorder,0.5954274,##ret,1345,1348
+Sign_symptom,0.52540636,##pathy,1351,1356
+Sign_symptom,0.99843425,scar,1357,1361
+Detailed_description,0.8938199,acute,1373,1378
+Diagnostic_procedure,0.99977916,cystoscopy,1402,1412
+Distance,0.71793246,15 mm,1444,1449
+Coreference,0.75556046,tumor,1462,1467
+Detailed_description,0.73137754,hyper,1506,1511
+Distance,0.8022084,3 cm,1533,1537
+Biological_structure,0.9670576,interureteric,1549,1562
+Lab_value,0.9993949,normal,1597,1603
+Detailed_description,0.5705524,longitudinal,1666,1678
+Sign_symptom,0.97549826,tumor,1693,1698
+Distance,0.77322376,0. 5 cm,1734,1740
+Detailed_description,0.9407283,away,1741,1745
+Therapeutic_procedure,0.971928,resect,1777,1783
+Lab_value,0.97112083,elevation,1824,1833
+Diagnostic_procedure,0.9400171,blood pressure,1837,1851
+Diagnostic_procedure,0.9800169,histopathological examination,1950,1979
+Detailed_description,0.6932172,distinct,2031,2039
+Detailed_description,0.9997547,small,2040,2045
+Detailed_description,0.8657226,finely granular bas,2104,2123
+Sign_symptom,0.95442194,tumor,2238,2243
+Detailed_description,0.7027035,##abe,2272,2275

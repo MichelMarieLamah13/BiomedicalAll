@@ -1,0 +1,81 @@
+entity_group,score,word,start,end
+Age,0.995786,50 - year - old,14,25
+Disease_disorder,0.9382623,diabetes,39,47
+Clinical_event,0.9974496,admitted,66,74
+Date,0.94472027,august 1998,78,89
+Detailed_description,0.9972965,feb,96,99
+Sign_symptom,0.9999629,swelling,104,112
+Biological_structure,0.9988721,right lumbar region,120,139
+Sign_symptom,0.9999409,chill,155,160
+Diagnostic_procedure,0.9998908,examination,163,174
+Sign_symptom,0.9963404,red,184,187
+Sign_symptom,0.99673676,crepitation,207,218
+Biological_structure,0.86010003,flank,226,231
+Biological_structure,0.9998701,right thoracic,240,254
+Diagnostic_procedure,0.9964029,fasting blood glucose,262,283
+Lab_value,0.99941206,1. 71 g /,294,301
+Diagnostic_procedure,0.9999245,serum urea,304,314
+Lab_value,0.99986494,0,319,320
+Lab_value,0.99730647,51 g,321,325
+Diagnostic_procedure,0.9956418,creatinine,333,343
+Lab_value,0.9982866,9. 2 mg /,348,355
+Diagnostic_procedure,0.99397635,hemoglobin,358,368
+Lab_value,0.93064636,9. 5 g,373,378
+Diagnostic_procedure,0.99300504,hemato,386,392
+Diagnostic_procedure,0.97803086,##it,394,396
+Lab_value,0.9943736,29. 4,401,405
+Diagnostic_procedure,0.9996782,cytobacteriological examination,408,439
+Disease_disorder,0.52293646,ac,478,480
+Diagnostic_procedure,0.99426764,computed tomography,504,523
+Diagnostic_procedure,0.9446755,ct,525,527
+Sign_symptom,0.9997894,gas,536,539
+Biological_structure,0.9942311,abdominal,557,566
+Biological_structure,0.9997936,right perine,573,585
+Biological_structure,0.99761856,right kidney,606,618
+Biological_structure,0.8868946,right,648,653
+Biological_structure,0.83987546,p,654,655
+Sign_symptom,0.45417404,##ye,655,657
+Biological_structure,0.62687886,##lo,657,659
+Biological_structure,0.9529751,##cal,659,662
+Sign_symptom,0.9260152,##ice,662,665
+Biological_structure,0.8296301,##al,665,667
+Sign_symptom,0.8016758,dilation,668,676
+Sign_symptom,0.9863788,stone,686,691
+Biological_structure,0.9778166,pyeloureteral junction,714,736
+Biological_structure,0.9999392,chest,749,754
+Diagnostic_procedure,0.9999553,x,755,756
+Diagnostic_procedure,0.98595005,ray,757,760
+Sign_symptom,0.9658916,gas,784,787
+Disease_disorder,0.8884643,em,827,829
+Disease_disorder,0.8562844,##phy,829,832
+Disease_disorder,0.958448,##se,832,834
+Disease_disorder,0.9823821,pyelonephritis,841,855
+Medication,0.9249552,insulin,946,953
+Medication,0.9846615,antibiotics,975,986
+Therapeutic_procedure,0.94915056,lumbotomy,1035,1044
+Biological_structure,0.963836,intercos,1071,1079
+Dosage,0.9428791,2 liter,1124,1131
+Therapeutic_procedure,0.73581487,irrigation,1191,1201
+Therapeutic_procedure,0.99771774,drainage,1256,1264
+Therapeutic_procedure,0.6438329,wound,1319,1324
+Coreference,0.49978712,del,1341,1344
+Therapeutic_procedure,0.90597427,inc,1363,1366
+Therapeutic_procedure,0.5502349,drainage,1377,1385
+Therapeutic_procedure,0.5739968,delbet,1467,1473
+Therapeutic_procedure,0.9896326,sutures,1476,1483
+Therapeutic_procedure,0.817235,intravenous,1527,1538
+Diagnostic_procedure,0.8886611,ur,1539,1541
+Therapeutic_procedure,0.8097416,##ography,1541,1548
+Date,0.98922753,21st,1570,1574
+Lab_value,0.7643492,non,1606,1609
+Biological_structure,0.923606,kidney,1628,1634
+Date,0.9634894,2,1701,1702
+Date,0.99308115,month,1703,1708
+Therapeutic_procedure,0.96593904,right nephre,1717,1729
+Therapeutic_procedure,0.76193285,##ctomy,1729,1734
+Therapeutic_procedure,0.40571362,##ision,1773,1778
+Sign_symptom,0.5291389,recovered,1817,1826
+Lab_value,0.7656838,normal,1837,1843
+Biological_structure,0.9993121,left kidney,1864,1875
+Lab_value,0.9998209,normal,1885,1891
+Diagnostic_procedure,0.9859692,ultrasound,1895,1905

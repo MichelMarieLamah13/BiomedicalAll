@@ -8,7 +8,7 @@ Detailed_description,0.9074852,end,143,146,Detailed_description
 Disease_disorder,0.8145619,respiratory failure,161,180,Disease_disorder
 Detailed_description,0.6808875,post,191,195,Detailed_description
 Detailed_description,0.9984842,continuous,233,243,Detailed_description
-Therapeutic_procedure,0.9964808,oxygen therapy,244,258,Therapeutic_Procedure
+Therapeutic_procedure,0.9964808,oxygen therapy,244,258,Therapeutic_procedure
 Detailed_description,0.9999025,nocturnal,273,282,Detailed_description
 History,0.9703691,smoking,388,395,History
 Lab_value,0.8273909,pack,412,416,Frequency
@@ -21,8 +21,8 @@ Dosage,0.8976161,2 mg,584,588,Dosage
 Medication,0.99213344,furosemide,602,612,Medication
 Dosage,0.8282183,40,614,616,Dosage
 Lab_value,0.9978923,positive,649,657,Lab_value
-Therapeutic_procedure,0.99973935,prop,752,756,Therapeutic_Procedure
-Therapeutic_procedure,0.98200846,##hylactic treatment,756,774,Therapeutic_Procedure
+Therapeutic_procedure,0.99973935,prop,752,756,Therapeutic_procedure
+Therapeutic_procedure,0.98200846,##hylactic treatment,756,774,Therapeutic_procedure
 Medication,0.9996947,ri,780,782,Medication
 Medication,0.9795196,##fa,782,784,Medication
 Medication,0.89470893,##mpicin - isoniazid,784,800,Medication
@@ -45,9 +45,9 @@ Medication,0.6459367,antibody,1350,1358,Detailed_description
 Medication,0.9938301,##ukin - 2,1383,1389,Biological_structure
 Dosage,0.7860138,20,1391,1393,Dosage
 Date,0.9264648,+,1458,1459,Date
-Therapeutic_procedure,0.9900894,im,1483,1485,Therapeutic_Procedure
+Therapeutic_procedure,0.9900894,im,1483,1485,Therapeutic_procedure
 Administration,0.83418626,oral,1527,1531,administration
-Therapeutic_procedure,0.9864147,triple therapy,1532,1546,Therapeutic_Procedure
+Therapeutic_procedure,0.9864147,triple therapy,1532,1546,Therapeutic_procedure
 Dosage,0.9994529,5 mg per day,1588,1600,Dosage
 Medication,0.9997967,ta,1604,1606,Medication
 Medication,0.752188,##cr,1606,1608,Medication
@@ -62,8 +62,8 @@ Medication,0.5267513,pre,1685,1688,Medication
 Date,0.45631507,+,1806,1807,Date
 Sign_symptom,0.9927216,respiratory,1833,1844,Sign_symptom
 Sign_symptom,0.8120839,##ytic infiltrate,2002,2017,Sign_symptom
-Biological_structure,0.99326444,trans,2022,2027,Therapeutic_Procedure
-Biological_structure,0.9816518,##bronchia,2027,2035,Therapeutic_Procedure
+Biological_structure,0.99326444,trans,2022,2027,Therapeutic_procedure
+Biological_structure,0.9816518,##bronchia,2027,2035,Therapeutic_procedure
 Administration,0.9884172,intra,2080,2085,administration
 Medication,0.9153246,methylprednisolone treatment,2092,2120,Medication
 Dosage,0.8086442,1000,2122,2126,Dosage

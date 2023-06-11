@@ -1,0 +1,50 @@
+entity_group,score,word,start,end
+Age,0.99824333,78 - year - old,2,13
+Disease_disorder,0.93182874,prostate cancer,49,64
+Detailed_description,0.84326273,endoscopic,113,123
+Detailed_description,0.983998,prostatic,124,133
+Therapeutic_procedure,0.99862,resection,134,143
+Detailed_description,0.98089325,pulp,149,153
+Clinical_event,0.99938667,admitted,174,182
+Detailed_description,0.9999683,acute,190,195
+Detailed_description,0.9995432,ob,196,198
+Detailed_description,0.6722294,##st,198,200
+Detailed_description,0.89465773,##ctive,202,207
+Disease_disorder,0.99958384,renal failure,208,221
+Diagnostic_procedure,0.9997157,creatinine,229,239
+Lab_value,0.7990444,330 mm,249,255
+Sign_symptom,0.9999018,fever,276,281
+Detailed_description,0.9999728,bilateral,286,295
+Sign_symptom,0.9826809,ureterohydronephrosis,296,317
+Biological_structure,0.9759979,pel,337,340
+Biological_structure,0.6221165,##vic,340,343
+Sign_symptom,0.8459933,ureteral,344,352
+Sign_symptom,0.70307773,compression,353,364
+Severity,0.9855921,extensive,382,391
+Biological_structure,0.99960476,abdominal,441,450
+Biological_structure,0.7689526,pelvic,451,457
+Diagnostic_procedure,0.9997335,ct,458,460
+Detailed_description,0.9999746,bilateral,467,476
+Detailed_description,0.9962048,percut,477,483
+Detailed_description,0.8852866,##aneous,483,489
+Therapeutic_procedure,0.8260298,neph,490,494
+Therapeutic_procedure,0.99729365,##rostomy,494,501
+Lab_value,0.9998355,normal,549,555
+Diagnostic_procedure,0.9944511,renal,560,565
+Detailed_description,0.9998728,standard,636,644
+Therapeutic_procedure,0.9253933,double - j stents,645,660
+Diagnostic_procedure,0.9987696,jj,727,729
+Coreference,0.59888244,ste,730,733
+Therapeutic_procedure,0.85957825,##nts,733,736
+Detailed_description,0.9972753,tails,742,747
+Diagnostic_procedure,0.76740324,renal function,807,821
+Lab_value,0.59686977,worsened,822,830
+Detailed_description,0.9993875,standard,860,868
+Coreference,0.23520386,ste,872,875
+Therapeutic_procedure,0.51740384,##nts,875,878
+Detailed_description,0.99941015,tailed,898,904
+Lab_value,0.9998747,normal,929,935
+Diagnostic_procedure,0.99931085,crea,946,950
+Diagnostic_procedure,0.98611695,##ine,953,956
+Lab_value,0.9989297,100 mmol / l,986,996
+Duration,0.70091647,3,1006,1007

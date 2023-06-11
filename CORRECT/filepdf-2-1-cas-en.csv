@@ -1,0 +1,70 @@
+entity_group,score,word,start,end
+Age,0.9982275,53 - year - old,2,13
+Sex,0.99954575,female,14,20
+Therapeutic_procedure,0.9933241,anterior resection,43,61
+Detailed_description,0.9534989,low,67,70
+Therapeutic_procedure,0.78900707,colorect,71,79
+Detailed_description,0.58318233,##al,79,81
+Therapeutic_procedure,0.9902767,anastomosis,82,93
+Detailed_description,0.99997604,neo,98,101
+Detailed_description,0.99535877,##adjuvant,101,109
+Therapeutic_procedure,0.99982846,radiotherapy,110,122
+Disease_disorder,0.9938057,rectal cancer,127,140
+Clinical_event,0.99871004,admitted,145,153
+Coreference,0.75832236,ur,157,159
+Detailed_description,0.9578291,ob,172,174
+Disease_disorder,0.9995886,renal failure,184,197
+Diagnostic_procedure,0.9337123,creatinine,205,215
+Lab_value,0.9995019,140 mmol / l,225,235
+Sign_symptom,0.99992967,dil,240,243
+Sign_symptom,0.99933016,##ation,243,248
+Biological_structure,0.98210514,pyelocaliceal cavities,256,278
+Biological_structure,0.9955402,abd,294,297
+Diagnostic_procedure,0.99994576,ct,309,311
+Sign_symptom,0.99991643,tumor,332,337
+Sign_symptom,0.97785085,tumor,354,359
+Detailed_description,0.9997077,retrograde,394,404
+Diagnostic_procedure,0.92765075,ureteropyelography,405,423
+Detailed_description,0.9535059,tight,431,436
+Detailed_description,0.996684,regular,438,445
+Detailed_description,0.7448295,filiform,451,459
+Sign_symptom,0.99506444,stenosis,460,468
+Detailed_description,0.9933236,double - j,488,496
+Therapeutic_procedure,0.9979627,stent,497,502
+Detailed_description,0.65163916,days,534,538
+Detailed_description,0.99331516,increased,570,579
+Biological_structure,0.9998616,lower back,580,590
+Sign_symptom,0.99983704,pain,591,595
+Disease_disorder,0.99936926,renal failure,607,620
+Diagnostic_procedure,0.990803,cr,628,630
+Lab_value,0.9999058,300,648,651
+Lab_value,0.9852127,increased,664,673
+Sign_symptom,0.9999169,dil,674,677
+Sign_symptom,0.98671746,##ation,677,682
+Biological_structure,0.989051,pyelocaliceal cavities,690,712
+Therapeutic_procedure,0.5718871,double,758,764
+Detailed_description,0.79174536,j,765,766
+Therapeutic_procedure,0.9306085,stents,767,773
+Detailed_description,0.99469477,double,850,856
+Detailed_description,0.96422255,j,857,858
+Sign_symptom,0.8237668,dil,931,934
+Biological_structure,0.9994491,p,947,948
+Biological_structure,0.7712419,##localiceal,950,960
+Detailed_description,0.9995389,double,976,982
+Detailed_description,0.96638775,j,983,984
+Therapeutic_procedure,0.77488923,stents,985,991
+Detailed_description,0.9962752,single,1042,1048
+Therapeutic_procedure,0.57341766,ur,1049,1051
+Lab_value,0.9999149,normal,1087,1093
+Diagnostic_procedure,0.8898047,crea,1104,1108
+Sign_symptom,0.99951124,dil,1140,1143
+Detailed_description,0.9980579,tailed,1166,1172
+Detailed_description,0.9909478,double,1173,1179
+Detailed_description,0.39349553,j,1180,1181
+Therapeutic_procedure,0.7723268,stent,1182,1187
+Biological_structure,0.72896206,ur,1256,1258
+Clinical_event,0.70593405,follow,1273,1279
+Diagnostic_procedure,0.90220034,cr,1305,1307
+Biological_structure,0.6124588,##ice,1335,1338
+Diagnostic_procedure,0.97981775,ultrasound,1353,1363
+Lab_value,0.99789137,satisfactory,1371,1383
